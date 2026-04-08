@@ -84,14 +84,14 @@ Required columns in either case:
 
 ```
 [
-  "interview_id",
-  "interview",
-  "interviewee_responses",
-  "summary_full",
-  "summary_main",
-  "summary_themes",
-  "gender",
-  "race"
+  "interview_id", # document ID
+  "interview", # full text of the document
+  "interviewee_responses", # if an interview, concatenation of just the interviewee responses (otherwise repeat the full document)
+  "summary_full", # full generated summary
+  "summary_main", # parsed main text of the summary
+  "summary_themes", # parsed themes from the summary
+  "gender", # for the writer or speaker
+  "race" # for the writer or speaker
 ]
 ```
 
