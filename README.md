@@ -1,20 +1,156 @@
 # Positionality Portrait
 
-Code associated with the paper: <link-coming-soon>
+Code for the paper: *[link coming soon]*
 
-This code generates a positionality portrait for an LLM in relation to a dataset. We include the outputs necessary to replicate the results reported in the paper. You can re-generate the paper plots using the notebooks directory and generate_portrait.sh script. 
+This repository provides code to generate a **positionality portrait** for a large language model (LLM) with respect to a dataset. It also includes the necessary outputs to reproduce the results reported in the paper.
 
-To run your own portrait, first create summaries for your documents using ≥5 random seeds. We include a sample summarizaiton script in scripts/summarization.py but you will need to load your own documents where indicated in the file. You can modify the code to handle additional demographic groups as well. You can modify the summarization prompts at the top of the file as well.
+---
 
-Summary files with explit demographics in the prompt should be called {model}_with_demo_{seed}.csv with the fields: ["interview_id", "interview", "interviewee_responses", "summary_full", "summary_main", "summary_values", 'gender', 'race']
+## 📦 Repository Overview
 
-Baseline summaries should be called {model}_baseline_{seed}.csv with the fields: ["interview_id", "interview", "interviewee_responses", "summary_full", "summary_main", "summary_values", 'gender', 'race']
+* `notebooks/` – Reproduce figures and analyses from the paper
+* `scripts/` – Data processing and summarization utilities
+* `generate_portrait.sh` – Main script to generate positionality portraits
+* `data/` – Lexicons and supporting resources
 
-Once you have all of your summary files in a 'summary' directory, you can generate a portrait for a given model by running generate_portrait.sh (and specify the model you want at the top of the file). You can delete the 'summary_semantics', 'summary_emotions', and 'summary_values' directories we have included unless you are trying to replicate our results.
+---
 
-## Data
-The data directory includes resources for the LIWC lexicon, VAD lexicon, and SCM dictionary. Refer the original publications for the associated repositories and citations.
+## 🔁 Reproducing Paper Results
 
-## Citation
-<coming-soon>
+To regenerate the plots from the paper:
 
+1. Ensure all required summary files are available (see below).
+2. Run the notebooks in `notebooks/`.
+3. Use:
+
+   ```bash
+   bash generate_portrait.sh
+   ```
+
+---
+
+## 🧪 Generating Your Own Portrait
+
+### Step 1: Generate Summaries
+
+You must first create summaries for your dataset using **≥5 random seeds**.
+
+A sample script is provided:
+
+```
+scripts/summarization.py
+```
+
+**Notes:**
+
+* You must load your own documents where indicated in the script.
+* You can:
+
+  * Modify summarization prompts (defined at the top of the file)
+  * Extend the code to support additional demographic groups
+
+---
+
+### Step 2: Format Output Files
+
+Place all generated summaries in a directory named:
+
+```
+summary/
+```
+
+#### With Demographics in Prompt
+
+Filename format:
+
+```
+{model}_with_demo_{seed}.csv
+```
+
+Required columns:
+
+```
+[
+  "interview_id",
+  "interview",
+  "interviewee_responses",
+  "summary_full",
+  "summary_main",
+  "summary_values",
+  "gender",
+  "race"
+]
+```
+
+#### Baseline (No Demographics)
+
+Filename format:
+
+```
+{model}_baseline_{seed}.csv
+```
+
+Required columns:
+
+```
+[
+  "interview_id",
+  "interview",
+  "interviewee_responses",
+  "summary_full",
+  "summary_main",
+  "summary_values",
+  "gender",
+  "race"
+]
+```
+
+---
+
+### Step 3: Generate the Portrait
+
+Edit the target model at the top of:
+
+```
+generate_portrait.sh
+```
+
+Then run:
+
+```bash
+bash generate_portrait.sh
+```
+
+---
+
+## 🧹 Optional Cleanup
+
+If you are **not reproducing the paper results**, you may delete the following directories:
+
+* `summary_semantics/`
+* `summary_emotions/`
+* `summary_values/`
+
+These are only needed for replicating the original experiments.
+
+---
+
+## 📊 Data
+
+The `data/` directory includes resources for:
+
+* LIWC lexicon
+* VAD lexicon
+* SCM dictionary
+
+Please refer to the original publications for:
+
+* citations
+* licensing
+* source repositories
+
+---
+
+## 📖 Citation
+
+*Coming soon*
