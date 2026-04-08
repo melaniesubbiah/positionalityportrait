@@ -12,6 +12,7 @@ This repository provides code to generate a **positionality portrait** for a lar
 * `scripts/` – Data processing and summarization utilities
 * `generate_portrait.sh` – Main script to generate positionality portraits
 * `data/` – Lexicons and supporting resources
+  
 Results from the paper (delete these directories if you are generating new results):
 * `summary_semantics/` - semantic scores for the interviews
 * `summary_emotions/` - emotion scores for the interviews
