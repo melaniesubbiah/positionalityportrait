@@ -64,27 +64,12 @@ Place all generated summaries in a directory named:
 summary/
 ```
 
-#### With Demographics in Prompt
+#### With Explicit Demographics in Prompt
 
 Filename format:
 
 ```
 {model}_with_demo_{seed}.csv
-```
-
-Required columns:
-
-```
-[
-  "interview_id",
-  "interview",
-  "interviewee_responses",
-  "summary_full",
-  "summary_main",
-  "summary_values",
-  "gender",
-  "race"
-]
 ```
 
 #### Baseline (No Demographics)
@@ -95,7 +80,7 @@ Filename format:
 {model}_baseline_{seed}.csv
 ```
 
-Required columns:
+Required columns in either case:
 
 ```
 [
@@ -104,7 +89,7 @@ Required columns:
   "interviewee_responses",
   "summary_full",
   "summary_main",
-  "summary_values",
+  "summary_themes",
   "gender",
   "race"
 ]
@@ -113,17 +98,10 @@ Required columns:
 ---
 
 ### Step 3: Generate the Portrait
-
-Edit the target model at the top of:
-
-```
-generate_portrait.sh
-```
-
-Then run:
+Run:
 
 ```bash
-bash generate_portrait.sh
+bash generate_portrait.sh <vllm-model-path>
 ```
 
 ---
@@ -148,11 +126,7 @@ The `data/` directory includes resources for:
 * VAD lexicon
 * SCM dictionary
 
-Please refer to the original publications for:
-
-* citations
-* licensing
-* source repositories
+Please refer to the original publications for citing, licensing, and source repositories.
 
 ---
 
