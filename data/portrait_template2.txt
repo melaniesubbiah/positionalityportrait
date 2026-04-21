@@ -1,0 +1,50 @@
+var groups = ["BW","WW","BM","WM"];
+function winClass(n) {
+  if (n===1) return "green-1";
+  if (n===2) return "green-2";
+  if (n>=3)  return "green-3";
+  if (n===-1) return "red-1";
+  if (n===-2) return "red-2";
+  if (n<=-3)  return "red-3";
+  return "empty";
+}
+
+var tb = document.getElementById("tb");
+var html = "";
+sections.forEach(function(sec, si) {
+  html += '<tr' + (si>0?' class="divider"':'') + '><td class="section-header" colspan="5">' + sec.label + '</td></tr>';
+  sec.rows.forEach(function(row) {
+    html += '<tr><td class="row-label">' + row.dim + '</td>';
+    groups.forEach(function(g) {
+        var inner = "", cls = "empty", style = "";
+        if (sec.winsOnly) {
+          var w = row[g];
+          if (w > 0) { cls = winClass(w); inner = "&uarr;"; }
+          else if (w < 0) { cls = winClass(w); inner = "&darr;"; }
+        } else {
+          var v = parseFloat(row[g]);
+          if (v > 0) {
+            var alpha = Math.min(1 - (v*.9 / .05), 1);
+            if (v < .025) {
+                style = 'background:rgba(40,74,11,' + alpha + '); color:#C0DD97';
+            } else {
+                style = 'background:rgba(40,74,11,' + alpha + '); color:#27500A';
+            }
+            inner = "&uarr;";
+          } else if (v < 0) {
+            var alpha = Math.min(1 + (v*.9 / .05), 1);
+            if (v > -.025) {
+                style = 'background:rgba(117, 18, 18,' + alpha + '); color:#f7bebe';
+            } else {
+                style = 'background:rgba(117, 18, 18,' + alpha + '); color:#791F1F';
+            }
+            inner = "&darr;";
+          }
+        }
+        html += '<td><div class="cell-inner ' + cls + '"' + (style ? ' style="' + style + '"' : '') + '>' + inner + '</div></td>';
+    });
+    html += '</tr>';
+  });
+});
+tb.innerHTML = html;
+</script>
