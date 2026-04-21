@@ -29,7 +29,8 @@ To regenerate the plots from the paper:
 3. Use:
 
    ```bash
-   bash generate_portrait.sh <vllm-model-path>
+   # Llama-3.2-3B-Instruct, Llama-3.1-8B-Instruct, or Qwen2.5-7B-Instruct
+   bash generate_portrait.sh <model-name>
    ```
 
 ---
@@ -101,7 +102,7 @@ Required columns in either case:
 Run:
 
 ```bash
-bash generate_portrait.sh <vllm-model-path>
+bash generate_portrait.sh <model-name>
 ```
 
 ---
