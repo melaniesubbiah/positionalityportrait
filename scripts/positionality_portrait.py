@@ -314,7 +314,6 @@ if __name__ == '__main__':
         themenames = [x[0] for x in get_top_themes(all_values).most_common()[:20]]
     else:
         themenames = [x[0] for x in get_top_themes(all_values).most_common() if x[1] >= .05]
-    breakpoint()
 
     base_df = (
         pd.concat(all_values['baseline'])
