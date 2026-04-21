@@ -1,1 +1,1334 @@
-{"b2aa5471-b4cc-4f13-9c47-8db9236d0e96": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7109375, "rouge-rougeL": 0.057514921323928374, "bertscore-precision": 0.8427252173423767, "bertscore-recall": 0.8019960522651672, "bertscore-f1": 0.8218563795089722}, "ceb0a207-d9cc-4f53-86d0-8fa2820f4881": {"gender": "woman", "race": "white", "rouge-rouge1": 0.46, "rouge-rougeL": 0.02628050415661035, "bertscore-precision": 0.8247184157371521, "bertscore-recall": 0.7831403613090515, "bertscore-f1": 0.8033918142318726}, "92cd1d13-c311-4729-972f-bab6077563df": {"gender": "woman", "race": "white", "rouge-rouge1": 0.578125, "rouge-rougeL": 0.054512416717141125, "bertscore-precision": 0.8427814841270447, "bertscore-recall": 0.7890567183494568, "bertscore-f1": 0.8150347471237183}, "010db2f5-31ef-4aba-8c92-ff464ba741e7": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7717391304347826, "rouge-rougeL": 0.018635855385762207, "bertscore-precision": 0.8273558616638184, "bertscore-recall": 0.7388800382614136, "bertscore-f1": 0.7806189656257629}, "204bf6db-a447-427b-be5b-1e5494f7224d": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5234899328859061, "rouge-rougeL": 0.11884057971014492, "bertscore-precision": 0.8371305465698242, "bertscore-recall": 0.780299961566925, "bertscore-f1": 0.8077168464660645}, "a2d36257-d611-46b3-9db4-ded478e8e716": {"gender": "woman", "race": "white", "rouge-rouge1": 0.765625, "rouge-rougeL": 0.03093259464450601, "bertscore-precision": 0.8369219899177551, "bertscore-recall": 0.7838706970214844, "bertscore-f1": 0.8095281720161438}, "eafb5402-6918-41e8-84a7-9d7e027df9d1": {"gender": "man", "race": "white", "rouge-rouge1": 0.7037037037037037, "rouge-rougeL": 0.025442980463425715, "bertscore-precision": 0.8172599673271179, "bertscore-recall": 0.7754877805709839, "bertscore-f1": 0.7958261370658875}, "12360301-4a51-4140-a00f-b5d5ce6805ec": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6363636363636364, "rouge-rougeL": 0.054353854686633396, "bertscore-precision": 0.8368319272994995, "bertscore-recall": 0.7987715005874634, "bertscore-f1": 0.8173588514328003}, "cf500c52-c539-4c9d-8037-7019198dfb1f": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6666666666666666, "rouge-rougeL": 0.023331420921782368, "bertscore-precision": 0.819838285446167, "bertscore-recall": 0.7793022394180298, "bertscore-f1": 0.7990565299987793}, "20e6dce1-a200-4579-9d77-da04d496f5dc": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6739130434782609, "rouge-rougeL": 0.058734177215189864, "bertscore-precision": 0.8336835503578186, "bertscore-recall": 0.7785950303077698, "bertscore-f1": 0.8051981329917908}, "433f2ba6-34fd-4891-94f5-c8652aa964b5": {"gender": "man", "race": "white", "rouge-rouge1": 0.375, "rouge-rougeL": 0.07655502392344497, "bertscore-precision": 0.8178917169570923, "bertscore-recall": 0.741064190864563, "bertscore-f1": 0.7775849103927612}, "f9bdaa17-f1f7-44e7-8360-09be9288c6b3": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5046728971962616, "rouge-rougeL": 0.04005862237420616, "bertscore-precision": 0.8212943077087402, "bertscore-recall": 0.7694207429885864, "bertscore-f1": 0.7945117354393005}, "9f8ab536-f216-468a-a2c4-92a2255aea93": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5597014925373134, "rouge-rougeL": 0.03324267150196434, "bertscore-precision": 0.8227310180664062, "bertscore-recall": 0.7721347808837891, "bertscore-f1": 0.796630322933197}, "7278e8b0-5acb-4f05-95f6-a3228156a201": {"gender": "man", "race": "white", "rouge-rouge1": 0.48148148148148145, "rouge-rougeL": 0.19647355163727961, "bertscore-precision": 0.8575277924537659, "bertscore-recall": 0.8204519748687744, "bertscore-f1": 0.838580310344696}, "6c66876a-d857-4ef3-90c7-b1456374b60e": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6194029850746269, "rouge-rougeL": 0.056419113413932055, "bertscore-precision": 0.8400351405143738, "bertscore-recall": 0.7921584248542786, "bertscore-f1": 0.8153945803642273}, "8ec013ef-2135-4263-b95b-a9df782dd777": {"gender": "man", "race": "white", "rouge-rouge1": 0.49107142857142855, "rouge-rougeL": 0.035460992907801414, "bertscore-precision": 0.8086080551147461, "bertscore-recall": 0.7542765140533447, "bertscore-f1": 0.7804979085922241}, "08656743-79af-44fe-b15e-f960f5701dc0": {"gender": "man", "race": "white", "rouge-rouge1": 0.6125, "rouge-rougeL": 0.14691943127962087, "bertscore-precision": 0.8551874160766602, "bertscore-recall": 0.7978593111038208, "bertscore-f1": 0.8255292773246765}, "46179628-2c3b-4d3c-9cc7-c1e61a608643": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5403225806451613, "rouge-rougeL": 0.039007092198581554, "bertscore-precision": 0.8266627192497253, "bertscore-recall": 0.7875576615333557, "bertscore-f1": 0.8066365122795105}, "08dae8b8-edcc-47e4-97c5-14dd37d6f47a": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6304347826086957, "rouge-rougeL": 0.03969359331476323, "bertscore-precision": 0.8322441577911377, "bertscore-recall": 0.7791462540626526, "bertscore-f1": 0.8048204183578491}, "9b900de3-3a72-42ae-8537-0dc12a20bc9c": {"gender": "man", "race": "white", "rouge-rouge1": 0.5338345864661654, "rouge-rougeL": 0.04076539101497504, "bertscore-precision": 0.8166162967681885, "bertscore-recall": 0.740264892578125, "bertscore-f1": 0.7765684127807617}, "a861a2ba-6bc9-4089-b1ae-58a4571fd791": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6513157894736842, "rouge-rougeL": 0.07372654155495978, "bertscore-precision": 0.8277982473373413, "bertscore-recall": 0.7884706258773804, "bertscore-f1": 0.807655930519104}, "bce6f3eb-77d7-4035-938a-61ea3e14163f": {"gender": "woman", "race": "white", "rouge-rouge1": 0.4928571428571429, "rouge-rougeL": 0.07387387387387388, "bertscore-precision": 0.8245797157287598, "bertscore-recall": 0.774176836013794, "bertscore-f1": 0.7985837459564209}, "ba218304-d99f-4c83-a638-47a19a919c73": {"gender": "man", "race": "white", "rouge-rouge1": 0.6271186440677966, "rouge-rougeL": 0.026638809088534866, "bertscore-precision": 0.8223897814750671, "bertscore-recall": 0.7637329697608948, "bertscore-f1": 0.791976809501648}, "f7a5a5c7-7f0a-4240-8605-44ac78c76f0f": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5967741935483871, "rouge-rougeL": 0.02513039355144618, "bertscore-precision": 0.817520022392273, "bertscore-recall": 0.7691472768783569, "bertscore-f1": 0.7925962805747986}, "e34de11b-20dd-451d-a109-aec5205a8177": {"gender": "man", "race": "white", "rouge-rouge1": 0.4857142857142857, "rouge-rougeL": 0.03864734299516909, "bertscore-precision": 0.8234520554542542, "bertscore-recall": 0.7676416635513306, "bertscore-f1": 0.7945680022239685}, "e6c363ec-408c-4771-9d9f-c7d1f061c7c6": {"gender": "man", "race": "white", "rouge-rouge1": 0.6607142857142857, "rouge-rougeL": 0.03211303789338472, "bertscore-precision": 0.826176643371582, "bertscore-recall": 0.782080888748169, "bertscore-f1": 0.8035241961479187}, "50df80a5-385a-4ac3-abbc-4fbbf650d544": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5507246376811594, "rouge-rougeL": 0.04473438956197577, "bertscore-precision": 0.8281936645507812, "bertscore-recall": 0.7523726224899292, "bertscore-f1": 0.7884645462036133}, "f9e485e7-8362-49ee-9ae3-dc982d24b35e": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5503875968992248, "rouge-rougeL": 0.11341632088520055, "bertscore-precision": 0.8434734344482422, "bertscore-recall": 0.789365291595459, "bertscore-f1": 0.8155229091644287}, "ad9e688b-37ae-4879-9a00-11a3e312f8dc": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6204379562043796, "rouge-rougeL": 0.05621135469364812, "bertscore-precision": 0.8359115719795227, "bertscore-recall": 0.7739167213439941, "bertscore-f1": 0.8037204146385193}, "bdf68b81-ecc2-499d-a3d8-37fda8aca555": {"gender": "man", "race": "white", "rouge-rouge1": 0.803030303030303, "rouge-rougeL": 0.011751627759250436, "bertscore-precision": 0.8258493542671204, "bertscore-recall": 0.7762734293937683, "bertscore-f1": 0.8002943396568298}, "209334c1-7390-45d5-82f4-44cc3b52b2d1": {"gender": "man", "race": "white", "rouge-rouge1": 0.7251908396946565, "rouge-rougeL": 0.022213994816734542, "bertscore-precision": 0.8185006380081177, "bertscore-recall": 0.7815746068954468, "bertscore-f1": 0.799611508846283}, "75556da1-ee59-4259-8d79-d42436987603": {"gender": "man", "race": "white", "rouge-rouge1": 0.664179104477612, "rouge-rougeL": 0.018697136073601427, "bertscore-precision": 0.823600172996521, "bertscore-recall": 0.7455803751945496, "bertscore-f1": 0.7826507091522217}, "8f43f1dd-213f-4c5a-b8d0-2215e0115a84": {"gender": "woman", "race": "white", "rouge-rouge1": 0.8231292517006803, "rouge-rougeL": 0.020572916666666663, "bertscore-precision": 0.8174563646316528, "bertscore-recall": 0.7635962963104248, "bertscore-f1": 0.7896089553833008}, "2bf931aa-02d4-439f-8c4b-3b9452d2376d": {"gender": "man", "race": "white", "rouge-rouge1": 0.3465346534653465, "rouge-rougeL": 0.10144927536231883, "bertscore-precision": 0.8404947519302368, "bertscore-recall": 0.7815248966217041, "bertscore-f1": 0.8099378347396851}, "be2053e9-de7b-4444-bd20-95d8efa491a3": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7557251908396947, "rouge-rougeL": 0.015015688032272526, "bertscore-precision": 0.8138086199760437, "bertscore-recall": 0.7621204853057861, "bertscore-f1": 0.7871168851852417}, "4a010026-6de1-4a39-b86a-ccecb0678b42": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6101694915254238, "rouge-rougeL": 0.06160781367392937, "bertscore-precision": 0.8191043734550476, "bertscore-recall": 0.7743029594421387, "bertscore-f1": 0.796073853969574}, "8d0a1997-5d25-43e1-9356-238c32b2afb4": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7514450867052023, "rouge-rougeL": 0.025059984004265526, "bertscore-precision": 0.8250337839126587, "bertscore-recall": 0.7770215272903442, "bertscore-f1": 0.8003081679344177}, "7fea52a5-2bd1-4537-b637-053a9f1e22af": {"gender": "man", "race": "white", "rouge-rouge1": 0.7142857142857143, "rouge-rougeL": 0.02515991471215352, "bertscore-precision": 0.8285114765167236, "bertscore-recall": 0.7691384553909302, "bertscore-f1": 0.7977217435836792}, "3a605abd-5425-490d-9cf6-b9f05cc6307a": {"gender": "woman", "race": "white", "rouge-rouge1": 0.64, "rouge-rougeL": 0.018934390136503745, "bertscore-precision": 0.8095188140869141, "bertscore-recall": 0.749087393283844, "bertscore-f1": 0.7781315445899963}, "a6339278-815c-4968-8492-80bff48ae30f": {"gender": "man", "race": "white", "rouge-rouge1": 0.6017699115044248, "rouge-rougeL": 0.040354330708661415, "bertscore-precision": 0.83281409740448, "bertscore-recall": 0.7626444697380066, "bertscore-f1": 0.7961862683296204}, "85161e04-5b4e-4063-b8cc-095dcf97160e": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5698924731182796, "rouge-rougeL": 0.11011904761904762, "bertscore-precision": 0.8395518064498901, "bertscore-recall": 0.7791116833686829, "bertscore-f1": 0.8082033395767212}, "b2ee413d-be96-439d-a97b-e838bcbe4e2b": {"gender": "man", "race": "white", "rouge-rouge1": 0.7124183006535948, "rouge-rougeL": 0.01775081451522301, "bertscore-precision": 0.8200749754905701, "bertscore-recall": 0.7669687271118164, "bertscore-f1": 0.7926332950592041}, "03a64e3c-ef1c-4cbe-ae32-10abb3e2252b": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5147058823529411, "rouge-rougeL": 0.034856700232377996, "bertscore-precision": 0.821751594543457, "bertscore-recall": 0.7626587748527527, "bertscore-f1": 0.791103184223175}, "e448207f-ccaa-4622-bae7-edd132eba40d": {"gender": "woman", "race": "white", "rouge-rouge1": 0.49557522123893805, "rouge-rougeL": 0.019483461712732214, "bertscore-precision": 0.8061641454696655, "bertscore-recall": 0.7596707344055176, "bertscore-f1": 0.7822271585464478}, "daa839cd-531f-4bcb-9459-e532859ef8fd": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5328467153284672, "rouge-rougeL": 0.058051140290255696, "bertscore-precision": 0.8334785103797913, "bertscore-recall": 0.7893550395965576, "bertscore-f1": 0.8108169436454773}, "dc576e75-b837-4991-ad7a-8f15b468b3a8": {"gender": "man", "race": "white", "rouge-rouge1": 0.4435483870967742, "rouge-rougeL": 0.19594594594594594, "bertscore-precision": 0.8417319059371948, "bertscore-recall": 0.8001214861869812, "bertscore-f1": 0.8203994631767273}, "4f52a77c-dc93-4455-83da-580404f6202a": {"gender": "man", "race": "Black", "rouge-rouge1": 0.7293233082706767, "rouge-rougeL": 0.056750572082379866, "bertscore-precision": 0.8202455043792725, "bertscore-recall": 0.7626625895500183, "bertscore-f1": 0.7904065847396851}, "c9f8792d-3a4d-4e7f-9177-2f93895bab97": {"gender": "man", "race": "white", "rouge-rouge1": 0.6637168141592921, "rouge-rougeL": 0.03129794415464866, "bertscore-precision": 0.8224500417709351, "bertscore-recall": 0.7585693001747131, "bertscore-f1": 0.789219081401825}, "60e6b258-3539-471b-8a0b-95fe482f1e66": {"gender": "man", "race": "white", "rouge-rouge1": 0.8015873015873016, "rouge-rougeL": 0.021120763072730368, "bertscore-precision": 0.8217937350273132, "bertscore-recall": 0.7553020715713501, "bertscore-f1": 0.787146270275116}, "46d35b50-274d-407b-959b-c42b6bc7f7f7": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5779816513761468, "rouge-rougeL": 0.03571428571428571, "bertscore-precision": 0.8149190545082092, "bertscore-recall": 0.7724912166595459, "bertscore-f1": 0.7931381464004517}, "a7e8bc52-566f-41fc-9a32-0c57dec9f9c5": {"gender": "woman", "race": "white", "rouge-rouge1": 0.528169014084507, "rouge-rougeL": 0.0471253534401508, "bertscore-precision": 0.8220081925392151, "bertscore-recall": 0.758423924446106, "bertscore-f1": 0.788936972618103}, "6c528595-3ec7-412d-8c06-a31636c3d27d": {"gender": "man", "race": "white", "rouge-rouge1": 0.6581196581196581, "rouge-rougeL": 0.02216202905688254, "bertscore-precision": 0.8246510028839111, "bertscore-recall": 0.7668790817260742, "bertscore-f1": 0.794716477394104}, "ad5cab5b-6083-4659-b07e-b4d67b4a3065": {"gender": "man", "race": "white", "rouge-rouge1": 0.6771653543307087, "rouge-rougeL": 0.01968365553602812, "bertscore-precision": 0.8144446611404419, "bertscore-recall": 0.7462111115455627, "bertscore-f1": 0.7788362503051758}, "a286d521-9222-4096-9335-585ce2608ed1": {"gender": "man", "race": "white", "rouge-rouge1": 0.5461538461538461, "rouge-rougeL": 0.07413647851727044, "bertscore-precision": 0.8296799659729004, "bertscore-recall": 0.787492036819458, "bertscore-f1": 0.8080357313156128}, "d910e1e9-bca5-40c8-90c3-e6262e4d8dde": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7777777777777778, "rouge-rougeL": 0.016756756756756756, "bertscore-precision": 0.8112301826477051, "bertscore-recall": 0.758643388748169, "bertscore-f1": 0.7840560078620911}, "bcccfd14-c518-4fb5-951c-7b5e83170d34": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7063492063492064, "rouge-rougeL": 0.03257328990228013, "bertscore-precision": 0.8157966136932373, "bertscore-recall": 0.7705609798431396, "bertscore-f1": 0.7925338745117188}, "45845ac5-445a-4ae0-bbf6-b4d3543e9efc": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6198347107438017, "rouge-rougeL": 0.02565930149679258, "bertscore-precision": 0.8155476450920105, "bertscore-recall": 0.7463685274124146, "bertscore-f1": 0.779426097869873}, "a6037f53-b167-4b13-ac8a-6fe8ea1d4093": {"gender": "man", "race": "white", "rouge-rouge1": 0.5655737704918032, "rouge-rougeL": 0.047134440278521685, "bertscore-precision": 0.8281015753746033, "bertscore-recall": 0.7566907405853271, "bertscore-f1": 0.7907872200012207}, "a31c5592-56ae-48be-994e-b64c2ef4e514": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5413533834586466, "rouge-rougeL": 0.031491200987959246, "bertscore-precision": 0.8202041387557983, "bertscore-recall": 0.7657687664031982, "bertscore-f1": 0.7920522093772888}, "4a7ea642-b3f9-4e3e-b6b0-5fc0e457a767": {"gender": "man", "race": "white", "rouge-rouge1": 0.5083333333333333, "rouge-rougeL": 0.10114192495921698, "bertscore-precision": 0.8383467197418213, "bertscore-recall": 0.7726953625679016, "bertscore-f1": 0.8041833639144897}, "6654d50c-5f8e-424e-a5be-7b6e2e5b09b2": {"gender": "man", "race": "white", "rouge-rouge1": 0.7068965517241379, "rouge-rougeL": 0.029043280182232345, "bertscore-precision": 0.8401965498924255, "bertscore-recall": 0.7863996624946594, "bertscore-f1": 0.8124085068702698}, "4e1a2750-b029-4808-b1f2-16dedbae56bd": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6818181818181818, "rouge-rougeL": 0.014913533238140568, "bertscore-precision": 0.8152746558189392, "bertscore-recall": 0.7652077674865723, "bertscore-f1": 0.7894482016563416}, "fb98fa33-e5e6-4723-aea4-9bf39404be59": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5040650406504065, "rouge-rougeL": 0.07, "bertscore-precision": 0.8262155652046204, "bertscore-recall": 0.7586892247200012, "bertscore-f1": 0.7910138368606567}, "89a6e1d4-b306-4605-9498-5058b8e4e388": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6271186440677966, "rouge-rougeL": 0.016265152677612398, "bertscore-precision": 0.8261920809745789, "bertscore-recall": 0.775221586227417, "bertscore-f1": 0.7998956441879272}, "21b64fee-058d-41a5-88dc-439c7a9706b6": {"gender": "man", "race": "white", "rouge-rouge1": 0.6044776119402985, "rouge-rougeL": 0.04488330341113106, "bertscore-precision": 0.8194632530212402, "bertscore-recall": 0.7693639993667603, "bertscore-f1": 0.7936237454414368}, "13187dc0-70bc-4948-95e3-dee0493cfea2": {"gender": "man", "race": "white", "rouge-rouge1": 0.6, "rouge-rougeL": 0.04168514412416851, "bertscore-precision": 0.8190931081771851, "bertscore-recall": 0.7741832733154297, "bertscore-f1": 0.7960053086280823}, "66f77dea-e5a4-4a78-90c0-ef5101b3cae9": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6862745098039216, "rouge-rougeL": 0.014735718099305926, "bertscore-precision": 0.8183778524398804, "bertscore-recall": 0.7741943597793579, "bertscore-f1": 0.7956732511520386}, "32f9cd59-dd91-4d05-8682-883a09d1a139": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6811594202898551, "rouge-rougeL": 0.02708803611738149, "bertscore-precision": 0.8230791091918945, "bertscore-recall": 0.7788240313529968, "bertscore-f1": 0.8003402352333069}, "99563fcc-51cb-475e-8446-dbd4587cfaeb": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5370370370370371, "rouge-rougeL": 0.06572769953051642, "bertscore-precision": 0.8124343156814575, "bertscore-recall": 0.7725688219070435, "bertscore-f1": 0.7920002341270447}, "6c38ec70-f604-4ec6-87e7-0b25f5bb66d2": {"gender": "man", "race": "white", "rouge-rouge1": 0.7272727272727273, "rouge-rougeL": 0.04602660913340525, "bertscore-precision": 0.8340139389038086, "bertscore-recall": 0.7849482297897339, "bertscore-f1": 0.808737576007843}, "ed6dd487-265a-4a0b-9a95-66c827c65fad": {"gender": "woman", "race": "white", "rouge-rouge1": 0.375, "rouge-rougeL": 0.0632183908045977, "bertscore-precision": 0.8281429409980774, "bertscore-recall": 0.7657533884048462, "bertscore-f1": 0.7957270741462708}, "8790004c-b02a-4261-b891-1e47e7d4a4bc": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5230769230769231, "rouge-rougeL": 0.06552006552006553, "bertscore-precision": 0.8216302394866943, "bertscore-recall": 0.7717405557632446, "bertscore-f1": 0.7959043383598328}, "62217358-99b4-4c70-ab4f-cc8d5680b232": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5612244897959183, "rouge-rougeL": 0.08982826948480845, "bertscore-precision": 0.826685905456543, "bertscore-recall": 0.7772775292396545, "bertscore-f1": 0.801220715045929}, "3337ffd1-5935-4137-95e6-251539798d57": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6015037593984962, "rouge-rougeL": 0.06563467492260061, "bertscore-precision": 0.8233800530433655, "bertscore-recall": 0.7787456512451172, "bertscore-f1": 0.8004411458969116}, "0c9e2da6-c13e-4f9a-9607-a47dabd11503": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5, "rouge-rougeL": 0.061371841155234655, "bertscore-precision": 0.8213532567024231, "bertscore-recall": 0.754037082195282, "bertscore-f1": 0.7862569689750671}, "831f489d-c766-4dcd-93ca-3b0420aca486": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6026490066225165, "rouge-rougeL": 0.02838221381267739, "bertscore-precision": 0.8155693411827087, "bertscore-recall": 0.7645277976989746, "bertscore-f1": 0.7892241477966309}, "80746952-c5ec-462b-a870-290e5a1d913f": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.7226890756302521, "rouge-rougeL": 0.017958097771865647, "bertscore-precision": 0.8341748118400574, "bertscore-recall": 0.7746045589447021, "bertscore-f1": 0.8032867312431335}, "a779fac8-5294-4028-85b7-108015f1ac41": {"gender": "man", "race": "white", "rouge-rouge1": 0.5185185185185185, "rouge-rougeL": 0.11284046692607004, "bertscore-precision": 0.8450454473495483, "bertscore-recall": 0.7650212645530701, "bertscore-f1": 0.8030447363853455}, "57a1dae4-3d62-477d-8b31-d8e3d87458c1": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.7191011235955056, "rouge-rougeL": 0.029884198729921554, "bertscore-precision": 0.8421657085418701, "bertscore-recall": 0.7495710849761963, "bertscore-f1": 0.793175220489502}, "dff13aac-73ad-441a-ad9b-23bd747fd7e4": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.29906542056074764, "rouge-rougeL": 0.12546125461254612, "bertscore-precision": 0.8317669630050659, "bertscore-recall": 0.7665425539016724, "bertscore-f1": 0.7978238463401794}, "36a60a72-2a06-4310-9afc-2814530df199": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6159420289855072, "rouge-rougeL": 0.035983749274521186, "bertscore-precision": 0.823351263999939, "bertscore-recall": 0.778149425983429, "bertscore-f1": 0.8001124262809753}, "ffbd8b9b-6ca7-4ce4-ae02-b080c0435d73": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6097560975609756, "rouge-rougeL": 0.025372802136657022, "bertscore-precision": 0.8215667009353638, "bertscore-recall": 0.7660794854164124, "bertscore-f1": 0.7928534746170044}, "8e4923c1-4954-4c66-90d8-2303a3f7068d": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.4628099173553719, "rouge-rougeL": 0.12803532008830024, "bertscore-precision": 0.8304775953292847, "bertscore-recall": 0.7768052816390991, "bertscore-f1": 0.8027452826499939}, "881ecbf5-4e3c-4f89-ab69-b9ea9bde3716": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.8029197080291971, "rouge-rougeL": 0.016396802623488423, "bertscore-precision": 0.8240438103675842, "bertscore-recall": 0.7586888670921326, "bertscore-f1": 0.7900170087814331}, "a26b0137-6cc8-41a7-bd0b-06312bd10266": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.672514619883041, "rouge-rougeL": 0.02909647779479326, "bertscore-precision": 0.8261191248893738, "bertscore-recall": 0.7778693437576294, "bertscore-f1": 0.8012685775756836}, "04099c2c-e7b3-4f5c-94e1-1b40e4b6cf8c": {"gender": "man", "race": "white", "rouge-rouge1": 0.5486111111111112, "rouge-rougeL": 0.09244644870349493, "bertscore-precision": 0.8219559788703918, "bertscore-recall": 0.7755014300346375, "bertscore-f1": 0.7980532646179199}, "eee17aa3-1613-43f4-b946-319d5a83db30": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5454545454545454, "rouge-rougeL": 0.1670886075949367, "bertscore-precision": 0.8463735580444336, "bertscore-recall": 0.8026890754699707, "bertscore-f1": 0.8239527344703674}, "13b99ff8-eb98-4a4b-a3a7-e91014e57b44": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.43902439024390244, "rouge-rougeL": 0.044785668586052464, "bertscore-precision": 0.8167040348052979, "bertscore-recall": 0.7537463903427124, "bertscore-f1": 0.7839632630348206}, "249c36ec-80f6-4014-add4-17e0c8401fec": {"gender": "man", "race": "Black", "rouge-rouge1": 0.5572519083969466, "rouge-rougeL": 0.041264266900790166, "bertscore-precision": 0.8262892365455627, "bertscore-recall": 0.7674301862716675, "bertscore-f1": 0.7957728505134583}, "6bca035f-1202-49dd-988b-7ff1115cba86": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6811594202898551, "rouge-rougeL": 0.06496751624187906, "bertscore-precision": 0.829866886138916, "bertscore-recall": 0.7718801498413086, "bertscore-f1": 0.7998238801956177}, "382e92f0-bf22-40c7-97a0-93e37bb451e6": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6503496503496503, "rouge-rougeL": 0.05156854318865491, "bertscore-precision": 0.824309229850769, "bertscore-recall": 0.7867089509963989, "bertscore-f1": 0.8050702810287476}, "1ddc4a4a-bff8-4961-aa65-4ddd1e5305e0": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5546875, "rouge-rougeL": 0.0629139072847682, "bertscore-precision": 0.8180478811264038, "bertscore-recall": 0.7510356903076172, "bertscore-f1": 0.7831107974052429}, "f81ad57d-ceb6-4945-903a-80e841b367f1": {"gender": "man", "race": "Black", "rouge-rouge1": 0.7230769230769231, "rouge-rougeL": 0.028021015761821366, "bertscore-precision": 0.8198038935661316, "bertscore-recall": 0.7476552128791809, "bertscore-f1": 0.7820690870285034}, "ef45ebc4-d3f6-4b86-833b-49ae6d63d83f": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6992481203007519, "rouge-rougeL": 0.0149812734082397, "bertscore-precision": 0.8158082962036133, "bertscore-recall": 0.7826101779937744, "bertscore-f1": 0.798864483833313}, "94d9b9d1-907d-471c-bef1-b359871a66b8": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.7575757575757576, "rouge-rougeL": 0.028578348268345845, "bertscore-precision": 0.8284991383552551, "bertscore-recall": 0.7818770408630371, "bertscore-f1": 0.8045132756233215}, "f30f5d54-d7a1-4de6-8d96-d24716f0fbcc": {"gender": "man", "race": "Black", "rouge-rouge1": 0.7210884353741497, "rouge-rougeL": 0.03136882129277566, "bertscore-precision": 0.8226547241210938, "bertscore-recall": 0.7730990648269653, "bertscore-f1": 0.797107458114624}, "51b36b61-9a60-48ad-87e6-e178df24a1be": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6296296296296297, "rouge-rougeL": 0.020360944007403983, "bertscore-precision": 0.8160098791122437, "bertscore-recall": 0.7547914981842041, "bertscore-f1": 0.7842077612876892}, "242add0a-6f1b-4338-aa24-fb76ef221ab3": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.676923076923077, "rouge-rougeL": 0.04795117698343505, "bertscore-precision": 0.8185892701148987, "bertscore-recall": 0.7664686441421509, "bertscore-f1": 0.7916719913482666}, "16d8cc46-3b21-4c14-9ee6-ce9b80abaae5": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6518518518518519, "rouge-rougeL": 0.014187643020594965, "bertscore-precision": 0.8156471252441406, "bertscore-recall": 0.7709750533103943, "bertscore-f1": 0.7926822304725647}, "dbba8013-87f2-48e2-9706-d0736d89ff60": {"gender": "man", "race": "Black", "rouge-rouge1": 0.7230769230769231, "rouge-rougeL": 0.016234198270126416, "bertscore-precision": 0.829120397567749, "bertscore-recall": 0.7765712141990662, "bertscore-f1": 0.8019858598709106}, "a7022e98-8b88-440e-9377-953fd1ee647d": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6714285714285714, "rouge-rougeL": 0.03310719131614655, "bertscore-precision": 0.8250353336334229, "bertscore-recall": 0.7800648808479309, "bertscore-f1": 0.8019201755523682}, "10c21186-6ad6-4f37-8bc4-46677f034619": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6923076923076923, "rouge-rougeL": 0.10035211267605633, "bertscore-precision": 0.8373352885246277, "bertscore-recall": 0.7942216396331787, "bertscore-f1": 0.8152087926864624}, "70277a4a-fb7e-44ef-abc2-59bae579cad3": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5274725274725275, "rouge-rougeL": 0.12836438923395446, "bertscore-precision": 0.849294126033783, "bertscore-recall": 0.7835731506347656, "bertscore-f1": 0.815110981464386}, "7e4adf68-96f9-4571-a341-8c5949fae11d": {"gender": "man", "race": "Black", "rouge-rouge1": 0.7241379310344828, "rouge-rougeL": 0.013055303717135086, "bertscore-precision": 0.8153044581413269, "bertscore-recall": 0.7397838234901428, "bertscore-f1": 0.77571040391922}, "24d08eb5-7c35-4b94-88ef-21d6cc14f657": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6225165562913907, "rouge-rougeL": 0.048551959114139696, "bertscore-precision": 0.8147867321968079, "bertscore-recall": 0.7632834911346436, "bertscore-f1": 0.7881946563720703}, "cea251b4-5109-4001-b180-99b5f6b1d5d9": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5619834710743802, "rouge-rougeL": 0.04049700874367234, "bertscore-precision": 0.8280562162399292, "bertscore-recall": 0.7630563974380493, "bertscore-f1": 0.7942286133766174}, "b722d22c-908f-4479-9abf-ba238242d589": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6612903225806451, "rouge-rougeL": 0.029322548028311426, "bertscore-precision": 0.8212129473686218, "bertscore-recall": 0.765220046043396, "bertscore-f1": 0.7922284007072449}, "c82cd1ee-af4f-46ca-bdc6-b20dc18f2ddd": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5984848484848485, "rouge-rougeL": 0.029806259314456036, "bertscore-precision": 0.8226634860038757, "bertscore-recall": 0.7772360444068909, "bertscore-f1": 0.7993048429489136}, "1f94a857-f32b-45d2-985f-d858d913f5fd": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5801526717557252, "rouge-rougeL": 0.08760484622553588, "bertscore-precision": 0.8250433206558228, "bertscore-recall": 0.7804678082466125, "bertscore-f1": 0.8021367788314819}, "05828f6f-c119-4a30-9ddd-1f3dab1ca8a8": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5934959349593496, "rouge-rougeL": 0.021594684385382062, "bertscore-precision": 0.8161541819572449, "bertscore-recall": 0.765648365020752, "bertscore-f1": 0.7900949120521545}, "0c1df20e-ddab-4cea-be31-0453e1dff0ee": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6846846846846847, "rouge-rougeL": 0.019805902158843335, "bertscore-precision": 0.8281635046005249, "bertscore-recall": 0.7743488550186157, "bertscore-f1": 0.8003525733947754}, "e2898e29-9bd1-4fb8-bd02-4b36e047c0aa": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5864661654135338, "rouge-rougeL": 0.02755905511811024, "bertscore-precision": 0.829269528388977, "bertscore-recall": 0.7555962204933167, "bertscore-f1": 0.7907204627990723}, "5ccdd07d-d66a-431b-8af5-fa617a33dd04": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7818181818181819, "rouge-rougeL": 0.024050931384107518, "bertscore-precision": 0.8262068033218384, "bertscore-recall": 0.7589808702468872, "bertscore-f1": 0.7911683320999146}, "2dbed0bf-cc8b-4a92-96a0-492745ddf281": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6721311475409836, "rouge-rougeL": 0.021638330757341576, "bertscore-precision": 0.82618248462677, "bertscore-recall": 0.7620223760604858, "bertscore-f1": 0.7928064465522766}, "8b38bec0-b1a7-4a64-9add-4a5319f5d4bc": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5, "rouge-rougeL": 0.023586541796739507, "bertscore-precision": 0.8110973834991455, "bertscore-recall": 0.7692549824714661, "bertscore-f1": 0.7896223068237305}, "1360a9c5-ea67-4dbb-9b2e-a4abd50aabcd": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6474358974358975, "rouge-rougeL": 0.02883762200532387, "bertscore-precision": 0.821395754814148, "bertscore-recall": 0.7544941902160645, "bertscore-f1": 0.7865248918533325}, "9797c02b-5634-4681-822b-160e931ad766": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.7894736842105263, "rouge-rougeL": 0.021075191998571174, "bertscore-precision": 0.8254192471504211, "bertscore-recall": 0.7529599666595459, "bertscore-f1": 0.7875264286994934}, "b990093a-a800-49cc-8b6f-4de7820e94df": {"gender": "man", "race": "white", "rouge-rouge1": 0.6621621621621622, "rouge-rougeL": 0.02763456382759332, "bertscore-precision": 0.8225228190422058, "bertscore-recall": 0.7710443139076233, "bertscore-f1": 0.7959520816802979}, "848a3a87-5f16-46c4-8df7-2839479d9578": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.7058823529411765, "rouge-rougeL": 0.03503562945368171, "bertscore-precision": 0.8242299556732178, "bertscore-recall": 0.7378184795379639, "bertscore-f1": 0.7786340713500977}, "e44fbf52-d4db-4e9a-913c-ab3ad61d2440": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5089285714285714, "rouge-rougeL": 0.023001725129384705, "bertscore-precision": 0.8216797709465027, "bertscore-recall": 0.755676805973053, "bertscore-f1": 0.7872973680496216}, "bbc8b75d-7a9d-44ca-83cf-7bf736f38226": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.19444444444444445, "rouge-rougeL": 0.20987654320987656, "bertscore-precision": 0.8461990356445312, "bertscore-recall": 0.8322177529335022, "bertscore-f1": 0.8391501903533936}, "a9304ee7-45af-4b17-aea6-b9d136d922ac": {"gender": "man", "race": "Black", "rouge-rouge1": 0.6476190476190476, "rouge-rougeL": 0.01802451333813987, "bertscore-precision": 0.8121296167373657, "bertscore-recall": 0.7393535375595093, "bertscore-f1": 0.7740347385406494}, "1bdac441-f611-4184-926b-cd685da87d73": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6696428571428571, "rouge-rougeL": 0.030154047853162898, "bertscore-precision": 0.8254731297492981, "bertscore-recall": 0.7588579058647156, "bertscore-f1": 0.7907650470733643}, "969be8a3-91a7-4bc4-81b8-f76ac0b3a506": {"gender": "man", "race": "white", "rouge-rouge1": 0.56, "rouge-rougeL": 0.07076663858466722, "bertscore-precision": 0.8326223492622375, "bertscore-recall": 0.7858527898788452, "bertscore-f1": 0.8085617423057556}, "abe99e78-2c26-4cb7-9778-50289536a826": {"gender": "woman", "race": "white", "rouge-rouge1": 0.4732824427480916, "rouge-rougeL": 0.0950965824665676, "bertscore-precision": 0.8247532844543457, "bertscore-recall": 0.7651636600494385, "bertscore-f1": 0.7938417792320251}, "1137bdd8-2f73-4f76-8f2b-a9c2b8e3ae67": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6942148760330579, "rouge-rougeL": 0.040816326530612235, "bertscore-precision": 0.8315684795379639, "bertscore-recall": 0.7729563117027283, "bertscore-f1": 0.8011918663978577}, "d6b5ad1d-376d-4a3c-a0e4-3b2e6bc3f598": {"gender": "woman", "race": "white", "rouge-rouge1": 0.4566929133858268, "rouge-rougeL": 0.16736401673640167, "bertscore-precision": 0.8506554961204529, "bertscore-recall": 0.7695545554161072, "bertscore-f1": 0.8080752491950989}, "ec350243-2de5-4226-bdb3-d9c5b6bd2ed0": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5572519083969466, "rouge-rougeL": 0.07530647985989493, "bertscore-precision": 0.8323533535003662, "bertscore-recall": 0.7706913948059082, "bertscore-f1": 0.8003364205360413}, "243e9892-fe10-4921-a0f6-0a1b90d5fde9": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.2625, "rouge-rougeL": 0.16, "bertscore-precision": 0.8523154854774475, "bertscore-recall": 0.7663315534591675, "bertscore-f1": 0.8070396780967712}, "415c98c8-8e8b-4622-a2cb-5b4c403fa18d": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5752212389380531, "rouge-rougeL": 0.08609271523178808, "bertscore-precision": 0.8145933151245117, "bertscore-recall": 0.7394083738327026, "bertscore-f1": 0.7751820087432861}, "3bbd3375-2f21-45ca-b260-e5467163e2fc": {"gender": "man", "race": "Black", "rouge-rouge1": 0.24444444444444444, "rouge-rougeL": 0.13265306122448978, "bertscore-precision": 0.8431320190429688, "bertscore-recall": 0.8047654628753662, "bertscore-f1": 0.8235021233558655}, "d5644900-1fd0-46bb-a967-948460420a79": {"gender": "man", "race": "white", "rouge-rouge1": 0.6690140845070423, "rouge-rougeL": 0.021643557659790324, "bertscore-precision": 0.8184632658958435, "bertscore-recall": 0.7521685361862183, "bertscore-f1": 0.7839168310165405}, "b7359603-1b9a-4015-9660-6a0f40b1860e": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5473684210526316, "rouge-rougeL": 0.022727272727272728, "bertscore-precision": 0.8148593902587891, "bertscore-recall": 0.7507426142692566, "bertscore-f1": 0.7814880609512329}, "ff5570f7-e3e6-4c68-a789-f74312f6c59c": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5365853658536586, "rouge-rougeL": 0.0624113475177305, "bertscore-precision": 0.8285447359085083, "bertscore-recall": 0.7876071333885193, "bertscore-f1": 0.8075574636459351}, "7b25dad9-a578-4566-acad-5d1456429734": {"gender": "man", "race": "white", "rouge-rouge1": 0.7590361445783133, "rouge-rougeL": 0.05105811219348337, "bertscore-precision": 0.8221446871757507, "bertscore-recall": 0.7621017694473267, "bertscore-f1": 0.7909854650497437}, "3fde5bdf-43d5-43d0-838c-bef5329a9416": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6065573770491803, "rouge-rougeL": 0.03554006968641115, "bertscore-precision": 0.8102718591690063, "bertscore-recall": 0.7581775188446045, "bertscore-f1": 0.7833595871925354}, "b1d229dd-18ea-4a0f-8399-b51a377d5a26": {"gender": "man", "race": "Black", "rouge-rouge1": 0.36, "rouge-rougeL": 0.20527859237536658, "bertscore-precision": 0.8366826772689819, "bertscore-recall": 0.8063337802886963, "bertscore-f1": 0.8212279081344604}, "7564087e-715a-4ddf-b0c1-fb1cbdffad35": {"gender": "man", "race": "Black", "rouge-rouge1": 0.5391304347826087, "rouge-rougeL": 0.04941321803582458, "bertscore-precision": 0.8184915781021118, "bertscore-recall": 0.753207802772522, "bertscore-f1": 0.7844938635826111}, "6532fbf9-5203-44a3-98f2-34839bbfbe34": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6335078534031413, "rouge-rougeL": 0.05528209011737977, "bertscore-precision": 0.811860978603363, "bertscore-recall": 0.7498648166656494, "bertscore-f1": 0.7796323299407959}, "076cb561-1c63-4553-bbb3-5ca5634fce41": {"gender": "woman", "race": "white", "rouge-rouge1": 0.5454545454545454, "rouge-rougeL": 0.02873104549082203, "bertscore-precision": 0.8154074549674988, "bertscore-recall": 0.7573326826095581, "bertscore-f1": 0.7852978706359863}, "69a53359-189f-4538-9840-73121e7e478f": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.5902777777777778, "rouge-rougeL": 0.0622524052065648, "bertscore-precision": 0.8197116255760193, "bertscore-recall": 0.7643706798553467, "bertscore-f1": 0.7910744547843933}, "83953b26-804c-4a68-9c6e-6bad89dd684b": {"gender": "woman", "race": "white", "rouge-rouge1": 0.4892086330935252, "rouge-rougeL": 0.06858924395946998, "bertscore-precision": 0.8154215812683105, "bertscore-recall": 0.7653326988220215, "bertscore-f1": 0.7895835638046265}, "467925e0-c776-4171-b418-7e67d01426e3": {"gender": "woman", "race": "white", "rouge-rouge1": 0.7109375, "rouge-rougeL": 0.03188158269285511, "bertscore-precision": 0.8174903988838196, "bertscore-recall": 0.7537346482276917, "bertscore-f1": 0.7843189835548401}, "0d404fa2-7abf-41a9-8fe3-58b22d912440": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6491228070175439, "rouge-rougeL": 0.03050397877984085, "bertscore-precision": 0.8271487355232239, "bertscore-recall": 0.7723775506019592, "bertscore-f1": 0.7988254427909851}, "37164d90-67b5-4e1f-a6e5-8e93f965dae1": {"gender": "woman", "race": "white", "rouge-rouge1": 0.6101694915254238, "rouge-rougeL": 0.06192821956368754, "bertscore-precision": 0.8260688781738281, "bertscore-recall": 0.7454367876052856, "bertscore-f1": 0.783684253692627}, "79cb10a4-26e3-40ab-b67f-7252244e6954": {"gender": "man", "race": "white", "rouge-rouge1": 0.5853658536585366, "rouge-rougeL": 0.06555090655509066, "bertscore-precision": 0.828944206237793, "bertscore-recall": 0.7741907835006714, "bertscore-f1": 0.8006324768066406}, "49ab4d81-d968-42f0-a81a-d4a6012812d5": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6771653543307087, "rouge-rougeL": 0.03349908400942162, "bertscore-precision": 0.820674479007721, "bertscore-recall": 0.7716916799545288, "bertscore-f1": 0.7954297065734863}, "3158739d-5399-491f-9579-cef371276df8": {"gender": "man", "race": "white", "rouge-rouge1": 0.20353982300884957, "rouge-rougeL": 0.1345291479820628, "bertscore-precision": 0.8260987997055054, "bertscore-recall": 0.8047508597373962, "bertscore-f1": 0.8152851462364197}, "5d6cf289-e63d-4a8e-b148-896c4468b2bc": {"gender": "man", "race": "white", "rouge-rouge1": 0.74375, "rouge-rougeL": 0.04004160166406656, "bertscore-precision": 0.8269144296646118, "bertscore-recall": 0.7520678043365479, "bertscore-f1": 0.7877172231674194}, "823f19b0-9fcf-4718-829d-c71f96a3b881": {"gender": "man", "race": "white", "rouge-rouge1": 0.6, "rouge-rougeL": 0.07261904761904762, "bertscore-precision": 0.8168134689331055, "bertscore-recall": 0.7601169347763062, "bertscore-f1": 0.7874459624290466}, "351e6577-1738-4f96-bea6-ce93fc008e39": {"gender": "woman", "race": "Black", "rouge-rouge1": 0.6031746031746031, "rouge-rougeL": 0.048347311297483965, "bertscore-precision": 0.829206645488739, "bertscore-recall": 0.7756167650222778, "bertscore-f1": 0.8015169501304626}}
+{
+  "b2aa5471-b4cc-4f13-9c47-8db9236d0e96": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7109375,
+    "rouge-rougeL": 0.057514921323928374,
+    "bertscore-precision": 0.8427252173423767,
+    "bertscore-recall": 0.8019960522651672,
+    "bertscore-f1": 0.8218563795089722
+  },
+  "ceb0a207-d9cc-4f53-86d0-8fa2820f4881": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.46,
+    "rouge-rougeL": 0.02628050415661035,
+    "bertscore-precision": 0.8247184157371521,
+    "bertscore-recall": 0.7831403613090515,
+    "bertscore-f1": 0.8033918142318726
+  },
+  "92cd1d13-c311-4729-972f-bab6077563df": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.578125,
+    "rouge-rougeL": 0.054512416717141125,
+    "bertscore-precision": 0.8427814841270447,
+    "bertscore-recall": 0.7890567183494568,
+    "bertscore-f1": 0.8150347471237183
+  },
+  "010db2f5-31ef-4aba-8c92-ff464ba741e7": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7717391304347826,
+    "rouge-rougeL": 0.018635855385762207,
+    "bertscore-precision": 0.8273558616638184,
+    "bertscore-recall": 0.7388800382614136,
+    "bertscore-f1": 0.7806189656257629
+  },
+  "204bf6db-a447-427b-be5b-1e5494f7224d": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5234899328859061,
+    "rouge-rougeL": 0.11884057971014492,
+    "bertscore-precision": 0.8371305465698242,
+    "bertscore-recall": 0.780299961566925,
+    "bertscore-f1": 0.8077168464660645
+  },
+  "a2d36257-d611-46b3-9db4-ded478e8e716": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.765625,
+    "rouge-rougeL": 0.03093259464450601,
+    "bertscore-precision": 0.8369219899177551,
+    "bertscore-recall": 0.7838706970214844,
+    "bertscore-f1": 0.8095281720161438
+  },
+  "eafb5402-6918-41e8-84a7-9d7e027df9d1": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7037037037037037,
+    "rouge-rougeL": 0.025442980463425715,
+    "bertscore-precision": 0.8172599673271179,
+    "bertscore-recall": 0.7754877805709839,
+    "bertscore-f1": 0.7958261370658875
+  },
+  "12360301-4a51-4140-a00f-b5d5ce6805ec": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6363636363636364,
+    "rouge-rougeL": 0.054353854686633396,
+    "bertscore-precision": 0.8368319272994995,
+    "bertscore-recall": 0.7987715005874634,
+    "bertscore-f1": 0.8173588514328003
+  },
+  "cf500c52-c539-4c9d-8037-7019198dfb1f": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6666666666666666,
+    "rouge-rougeL": 0.023331420921782368,
+    "bertscore-precision": 0.819838285446167,
+    "bertscore-recall": 0.7793022394180298,
+    "bertscore-f1": 0.7990565299987793
+  },
+  "20e6dce1-a200-4579-9d77-da04d496f5dc": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6739130434782609,
+    "rouge-rougeL": 0.058734177215189864,
+    "bertscore-precision": 0.8336835503578186,
+    "bertscore-recall": 0.7785950303077698,
+    "bertscore-f1": 0.8051981329917908
+  },
+  "433f2ba6-34fd-4891-94f5-c8652aa964b5": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.375,
+    "rouge-rougeL": 0.07655502392344497,
+    "bertscore-precision": 0.8178917169570923,
+    "bertscore-recall": 0.741064190864563,
+    "bertscore-f1": 0.7775849103927612
+  },
+  "f9bdaa17-f1f7-44e7-8360-09be9288c6b3": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5046728971962616,
+    "rouge-rougeL": 0.04005862237420616,
+    "bertscore-precision": 0.8212943077087402,
+    "bertscore-recall": 0.7694207429885864,
+    "bertscore-f1": 0.7945117354393005
+  },
+  "9f8ab536-f216-468a-a2c4-92a2255aea93": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5597014925373134,
+    "rouge-rougeL": 0.03324267150196434,
+    "bertscore-precision": 0.8227310180664062,
+    "bertscore-recall": 0.7721347808837891,
+    "bertscore-f1": 0.796630322933197
+  },
+  "7278e8b0-5acb-4f05-95f6-a3228156a201": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.48148148148148145,
+    "rouge-rougeL": 0.19647355163727961,
+    "bertscore-precision": 0.8575277924537659,
+    "bertscore-recall": 0.8204519748687744,
+    "bertscore-f1": 0.838580310344696
+  },
+  "6c66876a-d857-4ef3-90c7-b1456374b60e": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6194029850746269,
+    "rouge-rougeL": 0.056419113413932055,
+    "bertscore-precision": 0.8400351405143738,
+    "bertscore-recall": 0.7921584248542786,
+    "bertscore-f1": 0.8153945803642273
+  },
+  "8ec013ef-2135-4263-b95b-a9df782dd777": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.49107142857142855,
+    "rouge-rougeL": 0.035460992907801414,
+    "bertscore-precision": 0.8086080551147461,
+    "bertscore-recall": 0.7542765140533447,
+    "bertscore-f1": 0.7804979085922241
+  },
+  "08656743-79af-44fe-b15e-f960f5701dc0": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6125,
+    "rouge-rougeL": 0.14691943127962087,
+    "bertscore-precision": 0.8551874160766602,
+    "bertscore-recall": 0.7978593111038208,
+    "bertscore-f1": 0.8255292773246765
+  },
+  "46179628-2c3b-4d3c-9cc7-c1e61a608643": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5403225806451613,
+    "rouge-rougeL": 0.039007092198581554,
+    "bertscore-precision": 0.8266627192497253,
+    "bertscore-recall": 0.7875576615333557,
+    "bertscore-f1": 0.8066365122795105
+  },
+  "08dae8b8-edcc-47e4-97c5-14dd37d6f47a": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6304347826086957,
+    "rouge-rougeL": 0.03969359331476323,
+    "bertscore-precision": 0.8322441577911377,
+    "bertscore-recall": 0.7791462540626526,
+    "bertscore-f1": 0.8048204183578491
+  },
+  "9b900de3-3a72-42ae-8537-0dc12a20bc9c": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.5338345864661654,
+    "rouge-rougeL": 0.04076539101497504,
+    "bertscore-precision": 0.8166162967681885,
+    "bertscore-recall": 0.740264892578125,
+    "bertscore-f1": 0.7765684127807617
+  },
+  "a861a2ba-6bc9-4089-b1ae-58a4571fd791": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6513157894736842,
+    "rouge-rougeL": 0.07372654155495978,
+    "bertscore-precision": 0.8277982473373413,
+    "bertscore-recall": 0.7884706258773804,
+    "bertscore-f1": 0.807655930519104
+  },
+  "bce6f3eb-77d7-4035-938a-61ea3e14163f": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.4928571428571429,
+    "rouge-rougeL": 0.07387387387387388,
+    "bertscore-precision": 0.8245797157287598,
+    "bertscore-recall": 0.774176836013794,
+    "bertscore-f1": 0.7985837459564209
+  },
+  "ba218304-d99f-4c83-a638-47a19a919c73": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6271186440677966,
+    "rouge-rougeL": 0.026638809088534866,
+    "bertscore-precision": 0.8223897814750671,
+    "bertscore-recall": 0.7637329697608948,
+    "bertscore-f1": 0.791976809501648
+  },
+  "f7a5a5c7-7f0a-4240-8605-44ac78c76f0f": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5967741935483871,
+    "rouge-rougeL": 0.02513039355144618,
+    "bertscore-precision": 0.817520022392273,
+    "bertscore-recall": 0.7691472768783569,
+    "bertscore-f1": 0.7925962805747986
+  },
+  "e34de11b-20dd-451d-a109-aec5205a8177": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.4857142857142857,
+    "rouge-rougeL": 0.03864734299516909,
+    "bertscore-precision": 0.8234520554542542,
+    "bertscore-recall": 0.7676416635513306,
+    "bertscore-f1": 0.7945680022239685
+  },
+  "e6c363ec-408c-4771-9d9f-c7d1f061c7c6": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6607142857142857,
+    "rouge-rougeL": 0.03211303789338472,
+    "bertscore-precision": 0.826176643371582,
+    "bertscore-recall": 0.782080888748169,
+    "bertscore-f1": 0.8035241961479187
+  },
+  "50df80a5-385a-4ac3-abbc-4fbbf650d544": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5507246376811594,
+    "rouge-rougeL": 0.04473438956197577,
+    "bertscore-precision": 0.8281936645507812,
+    "bertscore-recall": 0.7523726224899292,
+    "bertscore-f1": 0.7884645462036133
+  },
+  "f9e485e7-8362-49ee-9ae3-dc982d24b35e": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5503875968992248,
+    "rouge-rougeL": 0.11341632088520055,
+    "bertscore-precision": 0.8434734344482422,
+    "bertscore-recall": 0.789365291595459,
+    "bertscore-f1": 0.8155229091644287
+  },
+  "ad9e688b-37ae-4879-9a00-11a3e312f8dc": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6204379562043796,
+    "rouge-rougeL": 0.05621135469364812,
+    "bertscore-precision": 0.8359115719795227,
+    "bertscore-recall": 0.7739167213439941,
+    "bertscore-f1": 0.8037204146385193
+  },
+  "bdf68b81-ecc2-499d-a3d8-37fda8aca555": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.803030303030303,
+    "rouge-rougeL": 0.011751627759250436,
+    "bertscore-precision": 0.8258493542671204,
+    "bertscore-recall": 0.7762734293937683,
+    "bertscore-f1": 0.8002943396568298
+  },
+  "209334c1-7390-45d5-82f4-44cc3b52b2d1": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7251908396946565,
+    "rouge-rougeL": 0.022213994816734542,
+    "bertscore-precision": 0.8185006380081177,
+    "bertscore-recall": 0.7815746068954468,
+    "bertscore-f1": 0.799611508846283
+  },
+  "75556da1-ee59-4259-8d79-d42436987603": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.664179104477612,
+    "rouge-rougeL": 0.018697136073601427,
+    "bertscore-precision": 0.823600172996521,
+    "bertscore-recall": 0.7455803751945496,
+    "bertscore-f1": 0.7826507091522217
+  },
+  "8f43f1dd-213f-4c5a-b8d0-2215e0115a84": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.8231292517006803,
+    "rouge-rougeL": 0.020572916666666663,
+    "bertscore-precision": 0.8174563646316528,
+    "bertscore-recall": 0.7635962963104248,
+    "bertscore-f1": 0.7896089553833008
+  },
+  "2bf931aa-02d4-439f-8c4b-3b9452d2376d": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.3465346534653465,
+    "rouge-rougeL": 0.10144927536231883,
+    "bertscore-precision": 0.8404947519302368,
+    "bertscore-recall": 0.7815248966217041,
+    "bertscore-f1": 0.8099378347396851
+  },
+  "be2053e9-de7b-4444-bd20-95d8efa491a3": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7557251908396947,
+    "rouge-rougeL": 0.015015688032272526,
+    "bertscore-precision": 0.8138086199760437,
+    "bertscore-recall": 0.7621204853057861,
+    "bertscore-f1": 0.7871168851852417
+  },
+  "4a010026-6de1-4a39-b86a-ccecb0678b42": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6101694915254238,
+    "rouge-rougeL": 0.06160781367392937,
+    "bertscore-precision": 0.8191043734550476,
+    "bertscore-recall": 0.7743029594421387,
+    "bertscore-f1": 0.796073853969574
+  },
+  "8d0a1997-5d25-43e1-9356-238c32b2afb4": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7514450867052023,
+    "rouge-rougeL": 0.025059984004265526,
+    "bertscore-precision": 0.8250337839126587,
+    "bertscore-recall": 0.7770215272903442,
+    "bertscore-f1": 0.8003081679344177
+  },
+  "7fea52a5-2bd1-4537-b637-053a9f1e22af": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7142857142857143,
+    "rouge-rougeL": 0.02515991471215352,
+    "bertscore-precision": 0.8285114765167236,
+    "bertscore-recall": 0.7691384553909302,
+    "bertscore-f1": 0.7977217435836792
+  },
+  "3a605abd-5425-490d-9cf6-b9f05cc6307a": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.64,
+    "rouge-rougeL": 0.018934390136503745,
+    "bertscore-precision": 0.8095188140869141,
+    "bertscore-recall": 0.749087393283844,
+    "bertscore-f1": 0.7781315445899963
+  },
+  "a6339278-815c-4968-8492-80bff48ae30f": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6017699115044248,
+    "rouge-rougeL": 0.040354330708661415,
+    "bertscore-precision": 0.83281409740448,
+    "bertscore-recall": 0.7626444697380066,
+    "bertscore-f1": 0.7961862683296204
+  },
+  "85161e04-5b4e-4063-b8cc-095dcf97160e": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5698924731182796,
+    "rouge-rougeL": 0.11011904761904762,
+    "bertscore-precision": 0.8395518064498901,
+    "bertscore-recall": 0.7791116833686829,
+    "bertscore-f1": 0.8082033395767212
+  },
+  "b2ee413d-be96-439d-a97b-e838bcbe4e2b": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7124183006535948,
+    "rouge-rougeL": 0.01775081451522301,
+    "bertscore-precision": 0.8200749754905701,
+    "bertscore-recall": 0.7669687271118164,
+    "bertscore-f1": 0.7926332950592041
+  },
+  "03a64e3c-ef1c-4cbe-ae32-10abb3e2252b": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5147058823529411,
+    "rouge-rougeL": 0.034856700232377996,
+    "bertscore-precision": 0.821751594543457,
+    "bertscore-recall": 0.7626587748527527,
+    "bertscore-f1": 0.791103184223175
+  },
+  "e448207f-ccaa-4622-bae7-edd132eba40d": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.49557522123893805,
+    "rouge-rougeL": 0.019483461712732214,
+    "bertscore-precision": 0.8061641454696655,
+    "bertscore-recall": 0.7596707344055176,
+    "bertscore-f1": 0.7822271585464478
+  },
+  "daa839cd-531f-4bcb-9459-e532859ef8fd": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5328467153284672,
+    "rouge-rougeL": 0.058051140290255696,
+    "bertscore-precision": 0.8334785103797913,
+    "bertscore-recall": 0.7893550395965576,
+    "bertscore-f1": 0.8108169436454773
+  },
+  "dc576e75-b837-4991-ad7a-8f15b468b3a8": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.4435483870967742,
+    "rouge-rougeL": 0.19594594594594594,
+    "bertscore-precision": 0.8417319059371948,
+    "bertscore-recall": 0.8001214861869812,
+    "bertscore-f1": 0.8203994631767273
+  },
+  "4f52a77c-dc93-4455-83da-580404f6202a": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.7293233082706767,
+    "rouge-rougeL": 0.056750572082379866,
+    "bertscore-precision": 0.8202455043792725,
+    "bertscore-recall": 0.7626625895500183,
+    "bertscore-f1": 0.7904065847396851
+  },
+  "c9f8792d-3a4d-4e7f-9177-2f93895bab97": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6637168141592921,
+    "rouge-rougeL": 0.03129794415464866,
+    "bertscore-precision": 0.8224500417709351,
+    "bertscore-recall": 0.7585693001747131,
+    "bertscore-f1": 0.789219081401825
+  },
+  "60e6b258-3539-471b-8a0b-95fe482f1e66": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.8015873015873016,
+    "rouge-rougeL": 0.021120763072730368,
+    "bertscore-precision": 0.8217937350273132,
+    "bertscore-recall": 0.7553020715713501,
+    "bertscore-f1": 0.787146270275116
+  },
+  "46d35b50-274d-407b-959b-c42b6bc7f7f7": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5779816513761468,
+    "rouge-rougeL": 0.03571428571428571,
+    "bertscore-precision": 0.8149190545082092,
+    "bertscore-recall": 0.7724912166595459,
+    "bertscore-f1": 0.7931381464004517
+  },
+  "a7e8bc52-566f-41fc-9a32-0c57dec9f9c5": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.528169014084507,
+    "rouge-rougeL": 0.0471253534401508,
+    "bertscore-precision": 0.8220081925392151,
+    "bertscore-recall": 0.758423924446106,
+    "bertscore-f1": 0.788936972618103
+  },
+  "6c528595-3ec7-412d-8c06-a31636c3d27d": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6581196581196581,
+    "rouge-rougeL": 0.02216202905688254,
+    "bertscore-precision": 0.8246510028839111,
+    "bertscore-recall": 0.7668790817260742,
+    "bertscore-f1": 0.794716477394104
+  },
+  "ad5cab5b-6083-4659-b07e-b4d67b4a3065": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6771653543307087,
+    "rouge-rougeL": 0.01968365553602812,
+    "bertscore-precision": 0.8144446611404419,
+    "bertscore-recall": 0.7462111115455627,
+    "bertscore-f1": 0.7788362503051758
+  },
+  "a286d521-9222-4096-9335-585ce2608ed1": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.5461538461538461,
+    "rouge-rougeL": 0.07413647851727044,
+    "bertscore-precision": 0.8296799659729004,
+    "bertscore-recall": 0.787492036819458,
+    "bertscore-f1": 0.8080357313156128
+  },
+  "d910e1e9-bca5-40c8-90c3-e6262e4d8dde": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7777777777777778,
+    "rouge-rougeL": 0.016756756756756756,
+    "bertscore-precision": 0.8112301826477051,
+    "bertscore-recall": 0.758643388748169,
+    "bertscore-f1": 0.7840560078620911
+  },
+  "bcccfd14-c518-4fb5-951c-7b5e83170d34": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7063492063492064,
+    "rouge-rougeL": 0.03257328990228013,
+    "bertscore-precision": 0.8157966136932373,
+    "bertscore-recall": 0.7705609798431396,
+    "bertscore-f1": 0.7925338745117188
+  },
+  "45845ac5-445a-4ae0-bbf6-b4d3543e9efc": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6198347107438017,
+    "rouge-rougeL": 0.02565930149679258,
+    "bertscore-precision": 0.8155476450920105,
+    "bertscore-recall": 0.7463685274124146,
+    "bertscore-f1": 0.779426097869873
+  },
+  "a6037f53-b167-4b13-ac8a-6fe8ea1d4093": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.5655737704918032,
+    "rouge-rougeL": 0.047134440278521685,
+    "bertscore-precision": 0.8281015753746033,
+    "bertscore-recall": 0.7566907405853271,
+    "bertscore-f1": 0.7907872200012207
+  },
+  "a31c5592-56ae-48be-994e-b64c2ef4e514": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5413533834586466,
+    "rouge-rougeL": 0.031491200987959246,
+    "bertscore-precision": 0.8202041387557983,
+    "bertscore-recall": 0.7657687664031982,
+    "bertscore-f1": 0.7920522093772888
+  },
+  "4a7ea642-b3f9-4e3e-b6b0-5fc0e457a767": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.5083333333333333,
+    "rouge-rougeL": 0.10114192495921698,
+    "bertscore-precision": 0.8383467197418213,
+    "bertscore-recall": 0.7726953625679016,
+    "bertscore-f1": 0.8041833639144897
+  },
+  "6654d50c-5f8e-424e-a5be-7b6e2e5b09b2": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7068965517241379,
+    "rouge-rougeL": 0.029043280182232345,
+    "bertscore-precision": 0.8401965498924255,
+    "bertscore-recall": 0.7863996624946594,
+    "bertscore-f1": 0.8124085068702698
+  },
+  "4e1a2750-b029-4808-b1f2-16dedbae56bd": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6818181818181818,
+    "rouge-rougeL": 0.014913533238140568,
+    "bertscore-precision": 0.8152746558189392,
+    "bertscore-recall": 0.7652077674865723,
+    "bertscore-f1": 0.7894482016563416
+  },
+  "fb98fa33-e5e6-4723-aea4-9bf39404be59": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5040650406504065,
+    "rouge-rougeL": 0.07,
+    "bertscore-precision": 0.8262155652046204,
+    "bertscore-recall": 0.7586892247200012,
+    "bertscore-f1": 0.7910138368606567
+  },
+  "89a6e1d4-b306-4605-9498-5058b8e4e388": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6271186440677966,
+    "rouge-rougeL": 0.016265152677612398,
+    "bertscore-precision": 0.8261920809745789,
+    "bertscore-recall": 0.775221586227417,
+    "bertscore-f1": 0.7998956441879272
+  },
+  "21b64fee-058d-41a5-88dc-439c7a9706b6": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6044776119402985,
+    "rouge-rougeL": 0.04488330341113106,
+    "bertscore-precision": 0.8194632530212402,
+    "bertscore-recall": 0.7693639993667603,
+    "bertscore-f1": 0.7936237454414368
+  },
+  "13187dc0-70bc-4948-95e3-dee0493cfea2": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6,
+    "rouge-rougeL": 0.04168514412416851,
+    "bertscore-precision": 0.8190931081771851,
+    "bertscore-recall": 0.7741832733154297,
+    "bertscore-f1": 0.7960053086280823
+  },
+  "66f77dea-e5a4-4a78-90c0-ef5101b3cae9": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6862745098039216,
+    "rouge-rougeL": 0.014735718099305926,
+    "bertscore-precision": 0.8183778524398804,
+    "bertscore-recall": 0.7741943597793579,
+    "bertscore-f1": 0.7956732511520386
+  },
+  "32f9cd59-dd91-4d05-8682-883a09d1a139": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6811594202898551,
+    "rouge-rougeL": 0.02708803611738149,
+    "bertscore-precision": 0.8230791091918945,
+    "bertscore-recall": 0.7788240313529968,
+    "bertscore-f1": 0.8003402352333069
+  },
+  "99563fcc-51cb-475e-8446-dbd4587cfaeb": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5370370370370371,
+    "rouge-rougeL": 0.06572769953051642,
+    "bertscore-precision": 0.8124343156814575,
+    "bertscore-recall": 0.7725688219070435,
+    "bertscore-f1": 0.7920002341270447
+  },
+  "6c38ec70-f604-4ec6-87e7-0b25f5bb66d2": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7272727272727273,
+    "rouge-rougeL": 0.04602660913340525,
+    "bertscore-precision": 0.8340139389038086,
+    "bertscore-recall": 0.7849482297897339,
+    "bertscore-f1": 0.808737576007843
+  },
+  "ed6dd487-265a-4a0b-9a95-66c827c65fad": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.375,
+    "rouge-rougeL": 0.0632183908045977,
+    "bertscore-precision": 0.8281429409980774,
+    "bertscore-recall": 0.7657533884048462,
+    "bertscore-f1": 0.7957270741462708
+  },
+  "8790004c-b02a-4261-b891-1e47e7d4a4bc": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5230769230769231,
+    "rouge-rougeL": 0.06552006552006553,
+    "bertscore-precision": 0.8216302394866943,
+    "bertscore-recall": 0.7717405557632446,
+    "bertscore-f1": 0.7959043383598328
+  },
+  "62217358-99b4-4c70-ab4f-cc8d5680b232": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5612244897959183,
+    "rouge-rougeL": 0.08982826948480845,
+    "bertscore-precision": 0.826685905456543,
+    "bertscore-recall": 0.7772775292396545,
+    "bertscore-f1": 0.801220715045929
+  },
+  "3337ffd1-5935-4137-95e6-251539798d57": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6015037593984962,
+    "rouge-rougeL": 0.06563467492260061,
+    "bertscore-precision": 0.8233800530433655,
+    "bertscore-recall": 0.7787456512451172,
+    "bertscore-f1": 0.8004411458969116
+  },
+  "0c9e2da6-c13e-4f9a-9607-a47dabd11503": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5,
+    "rouge-rougeL": 0.061371841155234655,
+    "bertscore-precision": 0.8213532567024231,
+    "bertscore-recall": 0.754037082195282,
+    "bertscore-f1": 0.7862569689750671
+  },
+  "831f489d-c766-4dcd-93ca-3b0420aca486": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6026490066225165,
+    "rouge-rougeL": 0.02838221381267739,
+    "bertscore-precision": 0.8155693411827087,
+    "bertscore-recall": 0.7645277976989746,
+    "bertscore-f1": 0.7892241477966309
+  },
+  "80746952-c5ec-462b-a870-290e5a1d913f": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.7226890756302521,
+    "rouge-rougeL": 0.017958097771865647,
+    "bertscore-precision": 0.8341748118400574,
+    "bertscore-recall": 0.7746045589447021,
+    "bertscore-f1": 0.8032867312431335
+  },
+  "a779fac8-5294-4028-85b7-108015f1ac41": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.5185185185185185,
+    "rouge-rougeL": 0.11284046692607004,
+    "bertscore-precision": 0.8450454473495483,
+    "bertscore-recall": 0.7650212645530701,
+    "bertscore-f1": 0.8030447363853455
+  },
+  "57a1dae4-3d62-477d-8b31-d8e3d87458c1": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.7191011235955056,
+    "rouge-rougeL": 0.029884198729921554,
+    "bertscore-precision": 0.8421657085418701,
+    "bertscore-recall": 0.7495710849761963,
+    "bertscore-f1": 0.793175220489502
+  },
+  "dff13aac-73ad-441a-ad9b-23bd747fd7e4": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.29906542056074764,
+    "rouge-rougeL": 0.12546125461254612,
+    "bertscore-precision": 0.8317669630050659,
+    "bertscore-recall": 0.7665425539016724,
+    "bertscore-f1": 0.7978238463401794
+  },
+  "36a60a72-2a06-4310-9afc-2814530df199": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6159420289855072,
+    "rouge-rougeL": 0.035983749274521186,
+    "bertscore-precision": 0.823351263999939,
+    "bertscore-recall": 0.778149425983429,
+    "bertscore-f1": 0.8001124262809753
+  },
+  "ffbd8b9b-6ca7-4ce4-ae02-b080c0435d73": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6097560975609756,
+    "rouge-rougeL": 0.025372802136657022,
+    "bertscore-precision": 0.8215667009353638,
+    "bertscore-recall": 0.7660794854164124,
+    "bertscore-f1": 0.7928534746170044
+  },
+  "8e4923c1-4954-4c66-90d8-2303a3f7068d": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.4628099173553719,
+    "rouge-rougeL": 0.12803532008830024,
+    "bertscore-precision": 0.8304775953292847,
+    "bertscore-recall": 0.7768052816390991,
+    "bertscore-f1": 0.8027452826499939
+  },
+  "881ecbf5-4e3c-4f89-ab69-b9ea9bde3716": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.8029197080291971,
+    "rouge-rougeL": 0.016396802623488423,
+    "bertscore-precision": 0.8240438103675842,
+    "bertscore-recall": 0.7586888670921326,
+    "bertscore-f1": 0.7900170087814331
+  },
+  "a26b0137-6cc8-41a7-bd0b-06312bd10266": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.672514619883041,
+    "rouge-rougeL": 0.02909647779479326,
+    "bertscore-precision": 0.8261191248893738,
+    "bertscore-recall": 0.7778693437576294,
+    "bertscore-f1": 0.8012685775756836
+  },
+  "eee17aa3-1613-43f4-b946-319d5a83db30": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5454545454545454,
+    "rouge-rougeL": 0.1670886075949367,
+    "bertscore-precision": 0.8463735580444336,
+    "bertscore-recall": 0.8026890754699707,
+    "bertscore-f1": 0.8239527344703674
+  },
+  "13b99ff8-eb98-4a4b-a3a7-e91014e57b44": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.43902439024390244,
+    "rouge-rougeL": 0.044785668586052464,
+    "bertscore-precision": 0.8167040348052979,
+    "bertscore-recall": 0.7537463903427124,
+    "bertscore-f1": 0.7839632630348206
+  },
+  "249c36ec-80f6-4014-add4-17e0c8401fec": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.5572519083969466,
+    "rouge-rougeL": 0.041264266900790166,
+    "bertscore-precision": 0.8262892365455627,
+    "bertscore-recall": 0.7674301862716675,
+    "bertscore-f1": 0.7957728505134583
+  },
+  "6bca035f-1202-49dd-988b-7ff1115cba86": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6811594202898551,
+    "rouge-rougeL": 0.06496751624187906,
+    "bertscore-precision": 0.829866886138916,
+    "bertscore-recall": 0.7718801498413086,
+    "bertscore-f1": 0.7998238801956177
+  },
+  "382e92f0-bf22-40c7-97a0-93e37bb451e6": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6503496503496503,
+    "rouge-rougeL": 0.05156854318865491,
+    "bertscore-precision": 0.824309229850769,
+    "bertscore-recall": 0.7867089509963989,
+    "bertscore-f1": 0.8050702810287476
+  },
+  "1ddc4a4a-bff8-4961-aa65-4ddd1e5305e0": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5546875,
+    "rouge-rougeL": 0.0629139072847682,
+    "bertscore-precision": 0.8180478811264038,
+    "bertscore-recall": 0.7510356903076172,
+    "bertscore-f1": 0.7831107974052429
+  },
+  "f81ad57d-ceb6-4945-903a-80e841b367f1": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.7230769230769231,
+    "rouge-rougeL": 0.028021015761821366,
+    "bertscore-precision": 0.8198038935661316,
+    "bertscore-recall": 0.7476552128791809,
+    "bertscore-f1": 0.7820690870285034
+  },
+  "ef45ebc4-d3f6-4b86-833b-49ae6d63d83f": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6992481203007519,
+    "rouge-rougeL": 0.0149812734082397,
+    "bertscore-precision": 0.8158082962036133,
+    "bertscore-recall": 0.7826101779937744,
+    "bertscore-f1": 0.798864483833313
+  },
+  "94d9b9d1-907d-471c-bef1-b359871a66b8": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.7575757575757576,
+    "rouge-rougeL": 0.028578348268345845,
+    "bertscore-precision": 0.8284991383552551,
+    "bertscore-recall": 0.7818770408630371,
+    "bertscore-f1": 0.8045132756233215
+  },
+  "f30f5d54-d7a1-4de6-8d96-d24716f0fbcc": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.7210884353741497,
+    "rouge-rougeL": 0.03136882129277566,
+    "bertscore-precision": 0.8226547241210938,
+    "bertscore-recall": 0.7730990648269653,
+    "bertscore-f1": 0.797107458114624
+  },
+  "51b36b61-9a60-48ad-87e6-e178df24a1be": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6296296296296297,
+    "rouge-rougeL": 0.020360944007403983,
+    "bertscore-precision": 0.8160098791122437,
+    "bertscore-recall": 0.7547914981842041,
+    "bertscore-f1": 0.7842077612876892
+  },
+  "242add0a-6f1b-4338-aa24-fb76ef221ab3": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.676923076923077,
+    "rouge-rougeL": 0.04795117698343505,
+    "bertscore-precision": 0.8185892701148987,
+    "bertscore-recall": 0.7664686441421509,
+    "bertscore-f1": 0.7916719913482666
+  },
+  "16d8cc46-3b21-4c14-9ee6-ce9b80abaae5": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6518518518518519,
+    "rouge-rougeL": 0.014187643020594965,
+    "bertscore-precision": 0.8156471252441406,
+    "bertscore-recall": 0.7709750533103943,
+    "bertscore-f1": 0.7926822304725647
+  },
+  "dbba8013-87f2-48e2-9706-d0736d89ff60": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.7230769230769231,
+    "rouge-rougeL": 0.016234198270126416,
+    "bertscore-precision": 0.829120397567749,
+    "bertscore-recall": 0.7765712141990662,
+    "bertscore-f1": 0.8019858598709106
+  },
+  "a7022e98-8b88-440e-9377-953fd1ee647d": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6714285714285714,
+    "rouge-rougeL": 0.03310719131614655,
+    "bertscore-precision": 0.8250353336334229,
+    "bertscore-recall": 0.7800648808479309,
+    "bertscore-f1": 0.8019201755523682
+  },
+  "10c21186-6ad6-4f37-8bc4-46677f034619": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6923076923076923,
+    "rouge-rougeL": 0.10035211267605633,
+    "bertscore-precision": 0.8373352885246277,
+    "bertscore-recall": 0.7942216396331787,
+    "bertscore-f1": 0.8152087926864624
+  },
+  "7e4adf68-96f9-4571-a341-8c5949fae11d": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.7241379310344828,
+    "rouge-rougeL": 0.013055303717135086,
+    "bertscore-precision": 0.8153044581413269,
+    "bertscore-recall": 0.7397838234901428,
+    "bertscore-f1": 0.77571040391922
+  },
+  "24d08eb5-7c35-4b94-88ef-21d6cc14f657": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6225165562913907,
+    "rouge-rougeL": 0.048551959114139696,
+    "bertscore-precision": 0.8147867321968079,
+    "bertscore-recall": 0.7632834911346436,
+    "bertscore-f1": 0.7881946563720703
+  },
+  "cea251b4-5109-4001-b180-99b5f6b1d5d9": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5619834710743802,
+    "rouge-rougeL": 0.04049700874367234,
+    "bertscore-precision": 0.8280562162399292,
+    "bertscore-recall": 0.7630563974380493,
+    "bertscore-f1": 0.7942286133766174
+  },
+  "b722d22c-908f-4479-9abf-ba238242d589": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6612903225806451,
+    "rouge-rougeL": 0.029322548028311426,
+    "bertscore-precision": 0.8212129473686218,
+    "bertscore-recall": 0.765220046043396,
+    "bertscore-f1": 0.7922284007072449
+  },
+  "c82cd1ee-af4f-46ca-bdc6-b20dc18f2ddd": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5984848484848485,
+    "rouge-rougeL": 0.029806259314456036,
+    "bertscore-precision": 0.8226634860038757,
+    "bertscore-recall": 0.7772360444068909,
+    "bertscore-f1": 0.7993048429489136
+  },
+  "1f94a857-f32b-45d2-985f-d858d913f5fd": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5801526717557252,
+    "rouge-rougeL": 0.08760484622553588,
+    "bertscore-precision": 0.8250433206558228,
+    "bertscore-recall": 0.7804678082466125,
+    "bertscore-f1": 0.8021367788314819
+  },
+  "05828f6f-c119-4a30-9ddd-1f3dab1ca8a8": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5934959349593496,
+    "rouge-rougeL": 0.021594684385382062,
+    "bertscore-precision": 0.8161541819572449,
+    "bertscore-recall": 0.765648365020752,
+    "bertscore-f1": 0.7900949120521545
+  },
+  "0c1df20e-ddab-4cea-be31-0453e1dff0ee": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6846846846846847,
+    "rouge-rougeL": 0.019805902158843335,
+    "bertscore-precision": 0.8281635046005249,
+    "bertscore-recall": 0.7743488550186157,
+    "bertscore-f1": 0.8003525733947754
+  },
+  "e2898e29-9bd1-4fb8-bd02-4b36e047c0aa": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5864661654135338,
+    "rouge-rougeL": 0.02755905511811024,
+    "bertscore-precision": 0.829269528388977,
+    "bertscore-recall": 0.7555962204933167,
+    "bertscore-f1": 0.7907204627990723
+  },
+  "5ccdd07d-d66a-431b-8af5-fa617a33dd04": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7818181818181819,
+    "rouge-rougeL": 0.024050931384107518,
+    "bertscore-precision": 0.8262068033218384,
+    "bertscore-recall": 0.7589808702468872,
+    "bertscore-f1": 0.7911683320999146
+  },
+  "2dbed0bf-cc8b-4a92-96a0-492745ddf281": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6721311475409836,
+    "rouge-rougeL": 0.021638330757341576,
+    "bertscore-precision": 0.82618248462677,
+    "bertscore-recall": 0.7620223760604858,
+    "bertscore-f1": 0.7928064465522766
+  },
+  "8b38bec0-b1a7-4a64-9add-4a5319f5d4bc": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5,
+    "rouge-rougeL": 0.023586541796739507,
+    "bertscore-precision": 0.8110973834991455,
+    "bertscore-recall": 0.7692549824714661,
+    "bertscore-f1": 0.7896223068237305
+  },
+  "1360a9c5-ea67-4dbb-9b2e-a4abd50aabcd": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6474358974358975,
+    "rouge-rougeL": 0.02883762200532387,
+    "bertscore-precision": 0.821395754814148,
+    "bertscore-recall": 0.7544941902160645,
+    "bertscore-f1": 0.7865248918533325
+  },
+  "9797c02b-5634-4681-822b-160e931ad766": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.7894736842105263,
+    "rouge-rougeL": 0.021075191998571174,
+    "bertscore-precision": 0.8254192471504211,
+    "bertscore-recall": 0.7529599666595459,
+    "bertscore-f1": 0.7875264286994934
+  },
+  "848a3a87-5f16-46c4-8df7-2839479d9578": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.7058823529411765,
+    "rouge-rougeL": 0.03503562945368171,
+    "bertscore-precision": 0.8242299556732178,
+    "bertscore-recall": 0.7378184795379639,
+    "bertscore-f1": 0.7786340713500977
+  },
+  "e44fbf52-d4db-4e9a-913c-ab3ad61d2440": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5089285714285714,
+    "rouge-rougeL": 0.023001725129384705,
+    "bertscore-precision": 0.8216797709465027,
+    "bertscore-recall": 0.755676805973053,
+    "bertscore-f1": 0.7872973680496216
+  },
+  "bbc8b75d-7a9d-44ca-83cf-7bf736f38226": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.19444444444444445,
+    "rouge-rougeL": 0.20987654320987656,
+    "bertscore-precision": 0.8461990356445312,
+    "bertscore-recall": 0.8322177529335022,
+    "bertscore-f1": 0.8391501903533936
+  },
+  "a9304ee7-45af-4b17-aea6-b9d136d922ac": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.6476190476190476,
+    "rouge-rougeL": 0.01802451333813987,
+    "bertscore-precision": 0.8121296167373657,
+    "bertscore-recall": 0.7393535375595093,
+    "bertscore-f1": 0.7740347385406494
+  },
+  "1bdac441-f611-4184-926b-cd685da87d73": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6696428571428571,
+    "rouge-rougeL": 0.030154047853162898,
+    "bertscore-precision": 0.8254731297492981,
+    "bertscore-recall": 0.7588579058647156,
+    "bertscore-f1": 0.7907650470733643
+  },
+  "969be8a3-91a7-4bc4-81b8-f76ac0b3a506": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.56,
+    "rouge-rougeL": 0.07076663858466722,
+    "bertscore-precision": 0.8326223492622375,
+    "bertscore-recall": 0.7858527898788452,
+    "bertscore-f1": 0.8085617423057556
+  },
+  "abe99e78-2c26-4cb7-9778-50289536a826": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.4732824427480916,
+    "rouge-rougeL": 0.0950965824665676,
+    "bertscore-precision": 0.8247532844543457,
+    "bertscore-recall": 0.7651636600494385,
+    "bertscore-f1": 0.7938417792320251
+  },
+  "1137bdd8-2f73-4f76-8f2b-a9c2b8e3ae67": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6942148760330579,
+    "rouge-rougeL": 0.040816326530612235,
+    "bertscore-precision": 0.8315684795379639,
+    "bertscore-recall": 0.7729563117027283,
+    "bertscore-f1": 0.8011918663978577
+  },
+  "d6b5ad1d-376d-4a3c-a0e4-3b2e6bc3f598": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.4566929133858268,
+    "rouge-rougeL": 0.16736401673640167,
+    "bertscore-precision": 0.8506554961204529,
+    "bertscore-recall": 0.7695545554161072,
+    "bertscore-f1": 0.8080752491950989
+  },
+  "ec350243-2de5-4226-bdb3-d9c5b6bd2ed0": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5572519083969466,
+    "rouge-rougeL": 0.07530647985989493,
+    "bertscore-precision": 0.8323533535003662,
+    "bertscore-recall": 0.7706913948059082,
+    "bertscore-f1": 0.8003364205360413
+  },
+  "243e9892-fe10-4921-a0f6-0a1b90d5fde9": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.2625,
+    "rouge-rougeL": 0.16,
+    "bertscore-precision": 0.8523154854774475,
+    "bertscore-recall": 0.7663315534591675,
+    "bertscore-f1": 0.8070396780967712
+  },
+  "415c98c8-8e8b-4622-a2cb-5b4c403fa18d": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5752212389380531,
+    "rouge-rougeL": 0.08609271523178808,
+    "bertscore-precision": 0.8145933151245117,
+    "bertscore-recall": 0.7394083738327026,
+    "bertscore-f1": 0.7751820087432861
+  },
+  "3bbd3375-2f21-45ca-b260-e5467163e2fc": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.24444444444444444,
+    "rouge-rougeL": 0.13265306122448978,
+    "bertscore-precision": 0.8431320190429688,
+    "bertscore-recall": 0.8047654628753662,
+    "bertscore-f1": 0.8235021233558655
+  },
+  "d5644900-1fd0-46bb-a967-948460420a79": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6690140845070423,
+    "rouge-rougeL": 0.021643557659790324,
+    "bertscore-precision": 0.8184632658958435,
+    "bertscore-recall": 0.7521685361862183,
+    "bertscore-f1": 0.7839168310165405
+  },
+  "b7359603-1b9a-4015-9660-6a0f40b1860e": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5473684210526316,
+    "rouge-rougeL": 0.022727272727272728,
+    "bertscore-precision": 0.8148593902587891,
+    "bertscore-recall": 0.7507426142692566,
+    "bertscore-f1": 0.7814880609512329
+  },
+  "ff5570f7-e3e6-4c68-a789-f74312f6c59c": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5365853658536586,
+    "rouge-rougeL": 0.0624113475177305,
+    "bertscore-precision": 0.8285447359085083,
+    "bertscore-recall": 0.7876071333885193,
+    "bertscore-f1": 0.8075574636459351
+  },
+  "7b25dad9-a578-4566-acad-5d1456429734": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.7590361445783133,
+    "rouge-rougeL": 0.05105811219348337,
+    "bertscore-precision": 0.8221446871757507,
+    "bertscore-recall": 0.7621017694473267,
+    "bertscore-f1": 0.7909854650497437
+  },
+  "3fde5bdf-43d5-43d0-838c-bef5329a9416": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6065573770491803,
+    "rouge-rougeL": 0.03554006968641115,
+    "bertscore-precision": 0.8102718591690063,
+    "bertscore-recall": 0.7581775188446045,
+    "bertscore-f1": 0.7833595871925354
+  },
+  "b1d229dd-18ea-4a0f-8399-b51a377d5a26": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.36,
+    "rouge-rougeL": 0.20527859237536658,
+    "bertscore-precision": 0.8366826772689819,
+    "bertscore-recall": 0.8063337802886963,
+    "bertscore-f1": 0.8212279081344604
+  },
+  "7564087e-715a-4ddf-b0c1-fb1cbdffad35": {
+    "gender": "man",
+    "race": "Black",
+    "rouge-rouge1": 0.5391304347826087,
+    "rouge-rougeL": 0.04941321803582458,
+    "bertscore-precision": 0.8184915781021118,
+    "bertscore-recall": 0.753207802772522,
+    "bertscore-f1": 0.7844938635826111
+  },
+  "6532fbf9-5203-44a3-98f2-34839bbfbe34": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6335078534031413,
+    "rouge-rougeL": 0.05528209011737977,
+    "bertscore-precision": 0.811860978603363,
+    "bertscore-recall": 0.7498648166656494,
+    "bertscore-f1": 0.7796323299407959
+  },
+  "076cb561-1c63-4553-bbb3-5ca5634fce41": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.5454545454545454,
+    "rouge-rougeL": 0.02873104549082203,
+    "bertscore-precision": 0.8154074549674988,
+    "bertscore-recall": 0.7573326826095581,
+    "bertscore-f1": 0.7852978706359863
+  },
+  "69a53359-189f-4538-9840-73121e7e478f": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.5902777777777778,
+    "rouge-rougeL": 0.0622524052065648,
+    "bertscore-precision": 0.8197116255760193,
+    "bertscore-recall": 0.7643706798553467,
+    "bertscore-f1": 0.7910744547843933
+  },
+  "83953b26-804c-4a68-9c6e-6bad89dd684b": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.4892086330935252,
+    "rouge-rougeL": 0.06858924395946998,
+    "bertscore-precision": 0.8154215812683105,
+    "bertscore-recall": 0.7653326988220215,
+    "bertscore-f1": 0.7895835638046265
+  },
+  "467925e0-c776-4171-b418-7e67d01426e3": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.7109375,
+    "rouge-rougeL": 0.03188158269285511,
+    "bertscore-precision": 0.8174903988838196,
+    "bertscore-recall": 0.7537346482276917,
+    "bertscore-f1": 0.7843189835548401
+  },
+  "0d404fa2-7abf-41a9-8fe3-58b22d912440": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6491228070175439,
+    "rouge-rougeL": 0.03050397877984085,
+    "bertscore-precision": 0.8271487355232239,
+    "bertscore-recall": 0.7723775506019592,
+    "bertscore-f1": 0.7988254427909851
+  },
+  "37164d90-67b5-4e1f-a6e5-8e93f965dae1": {
+    "gender": "woman",
+    "race": "white",
+    "rouge-rouge1": 0.6101694915254238,
+    "rouge-rougeL": 0.06192821956368754,
+    "bertscore-precision": 0.8260688781738281,
+    "bertscore-recall": 0.7454367876052856,
+    "bertscore-f1": 0.783684253692627
+  },
+  "79cb10a4-26e3-40ab-b67f-7252244e6954": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.5853658536585366,
+    "rouge-rougeL": 0.06555090655509066,
+    "bertscore-precision": 0.828944206237793,
+    "bertscore-recall": 0.7741907835006714,
+    "bertscore-f1": 0.8006324768066406
+  },
+  "49ab4d81-d968-42f0-a81a-d4a6012812d5": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6771653543307087,
+    "rouge-rougeL": 0.03349908400942162,
+    "bertscore-precision": 0.820674479007721,
+    "bertscore-recall": 0.7716916799545288,
+    "bertscore-f1": 0.7954297065734863
+  },
+  "3158739d-5399-491f-9579-cef371276df8": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.20353982300884957,
+    "rouge-rougeL": 0.1345291479820628,
+    "bertscore-precision": 0.8260987997055054,
+    "bertscore-recall": 0.8047508597373962,
+    "bertscore-f1": 0.8152851462364197
+  },
+  "5d6cf289-e63d-4a8e-b148-896c4468b2bc": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.74375,
+    "rouge-rougeL": 0.04004160166406656,
+    "bertscore-precision": 0.8269144296646118,
+    "bertscore-recall": 0.7520678043365479,
+    "bertscore-f1": 0.7877172231674194
+  },
+  "823f19b0-9fcf-4718-829d-c71f96a3b881": {
+    "gender": "man",
+    "race": "white",
+    "rouge-rouge1": 0.6,
+    "rouge-rougeL": 0.07261904761904762,
+    "bertscore-precision": 0.8168134689331055,
+    "bertscore-recall": 0.7601169347763062,
+    "bertscore-f1": 0.7874459624290466
+  },
+  "351e6577-1738-4f96-bea6-ce93fc008e39": {
+    "gender": "woman",
+    "race": "Black",
+    "rouge-rouge1": 0.6031746031746031,
+    "rouge-rougeL": 0.048347311297483965,
+    "bertscore-precision": 0.829206645488739,
+    "bertscore-recall": 0.7756167650222778,
+    "bertscore-f1": 0.8015169501304626
+  }
+}
