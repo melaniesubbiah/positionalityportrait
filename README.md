@@ -11,7 +11,7 @@ This repository provides code to generate a **positionality portrait** for a lar
 * `notebooks/` – Reproduce figures and analyses from the paper
 * `scripts/` – Data processing and summarization utilities
 * `generate_portrait.sh` – Main script to generate positionality portraits
-* `data/` – Lexicons and supporting resources
+* `data/` – Lexicons and supporting resources (see below to download the necessary resources)
   
 Results from the paper (delete these directories if you are generating new results):
 * `summary_semantics/` - semantic scores for the interviews
@@ -121,11 +121,11 @@ These are only needed for replicating the original experiments.
 
 ## 📊 Data
 
-The `data/` directory includes resources for:
+The `data/` directory should include resources for:
 
-* LIWC lexicon
-* VAD lexicon
-* SCM dictionary
+* LIWC lexicon - license LIWC from https://www.liwc.app and include the liwc.json file
+* VAD lexicon - download NRC-VAD-Lexicon-v2.1.txt from https://saifmohammad.com/WebPages/nrc-vad.html
+* SCM dictionary - embeddings from https://github.com/XuanlongQ/Stereotype_Content_Dictionary
 
 Please refer to the original publications for citing, licensing, and source repositories.
 
