@@ -133,7 +133,7 @@ Please refer to the original publications for citing, licensing, and source repo
 
 ## 📖 Citation
 
-'''
+```
 @misc{subbiah2026whose,
   title     = {Whose Story Gets Told? Positionality and Bias in LLM Summaries of Life Narratives},
   author    = {Subbiah, Melanie and Mian, Haaris and Deas, Nicholas and Mayukha, Ananya and McAdams, Dan P. and McKeown, Kathleen},
@@ -143,4 +143,4 @@ Please refer to the original publications for citing, licensing, and source repo
   primaryClass  = {cs.CL},
   url       = {https://arxiv.org/abs/2604.20131}
 }
-'''
+```
