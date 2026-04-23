@@ -1,6 +1,6 @@
 # Positionality Portrait
 
-Code for the paper: *[link coming soon]*
+Code for the paper: [Whose Story Gets Told? Positionality and Bias in LLM Summaries of Life Narratives](https://arxiv.org/pdf/2604.20131)
 
 This repository provides code to generate a **positionality portrait** for a large language model (LLM) with respect to a dataset. It also includes the necessary outputs to reproduce the results reported in the paper.
 
@@ -133,4 +133,14 @@ Please refer to the original publications for citing, licensing, and source repo
 
 ## 📖 Citation
 
-*Coming soon*
+'''
+@misc{subbiah2026whose,
+  title     = {Whose Story Gets Told? Positionality and Bias in LLM Summaries of Life Narratives},
+  author    = {Subbiah, Melanie and Mian, Haaris and Deas, Nicholas and Mayukha, Ananya and McAdams, Dan P. and McKeown, Kathleen},
+  year      = {2026},
+  eprint    = {2604.20131},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url       = {https://arxiv.org/abs/2604.20131}
+}
+'''
